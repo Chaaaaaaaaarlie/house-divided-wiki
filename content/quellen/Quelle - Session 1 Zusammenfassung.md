@@ -23,7 +23,7 @@ related:
 
 ## Zusammenfassung
 
-Dies ist eine von Peter (Spieler, nicht DM) aus dem Gedächtnis verfasste deutsche Zusammenfassung der ersten Session, kein Rohtranskript. Quelldatei: `.raw/session-transcripts/Session-1-Zusammenfassung-vom-Spieler.md`. Die Zusammenfassung listet zunächst Hintergrundwissen zu Haus Corvinarus und den beteiligten Personen (Familie Danos sowie die Abenteurergruppe), gefolgt vom chronologischen Sessionverlauf: Taverne in Telflamm, Besuch beim Corvinarus-Anwesen und Auftragserteilung, Reise nach Ferncombe mit Traumbesuch, Ankunft in Ferncombe, Gespräch mit Cait, die Kobold-Fischerhütte und das Interview mit Noven Karlin.
+Dies ist eine von Peter (Spieler, nicht DM) aus dem Gedächtnis verfasste deutsche Zusammenfassung der ersten Session aus eigenen Notizen. Die Zusammenfassung listet zunächst Hintergrundwissen zu Haus Corvinarus und den beteiligten Personen (Familie Danos sowie die Abenteurergruppe), gefolgt vom chronologischen Sessionverlauf: Taverne in Telflamm, Besuch beim Corvinarus-Anwesen und Auftragserteilung, Reise nach Ferncombe mit Traumbesuch, Ankunft in Ferncombe, Gespräch mit Cait, die Kobold-Fischerhütte und das Interview mit Noven Karlin.
 
 ## Kernaussagen
 
@@ -35,7 +35,7 @@ Dies ist eine von Peter (Spieler, nicht DM) aus dem Gedächtnis verfasste deutsc
 - In Ferncombe liefern Cait, die Kobolde um Skipper und der traumatisierte Noven Karlin erste Hinweise zur Katastrophennacht.
 - Die Session endet unmittelbar vor dem geplanten Besuch beim Bürgermeister.
 
-> [!gap] Die Zusammenfassung ist eine nachträgliche, aus dem Gedächtnis geschriebene Spielerinterpretation — Details könnten lückenhaft oder subjektiv gefärbt sein. Als zuverlässige Augenzeugenquelle behandelt, aber nicht als wortgetreues Transkript.
+> [!gap] Die Zusammenfassung ist eine nachträgliche, aus dem Gedächtnis geschriebene Spielerinterpretation — Details könnten lückenhaft oder subjektiv gefärbt sein. Als zuverlässige Augenzeugenquelle behandelt, aber nicht als wortgetreues Protokoll.
 
 ## Verknüpfungen
 

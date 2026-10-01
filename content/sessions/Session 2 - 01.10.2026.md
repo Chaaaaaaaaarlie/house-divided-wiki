@@ -9,72 +9,85 @@ source_type: session
 session_number: 2
 date_played: 2026-10-01
 date_confidence: confirmed
-status: seed
-confidence: low
-completeness: partial
+status: mature
+confidence: medium
 related:
   - "[[Percival (Pryce)]]"
+  - "[[Rhaelis]]"
   - "[[Usk Umberdael]]"
   - "[[Raventree]]"
-  - "[[Rhaelis]]"
+  - "[[Ferncombe]]"
+  - "[[Haus Corvinarus (Familie Danos)]]"
   - "[[Schicksal von Usk und Kryn klären]]"
-  - "[[Besuch beim Bürgermeister (nächster Schritt)]]"
 sources:
-  - "[[Transcript - Session 2 - 01.10.2026]]"
+  - "[[Quelle - Session 2 - 01.10.2026]]"
 ---
 
 # Session 2 - 01.10.2026
 
-> [!warning] ⚠️ Unvollständige Aufzeichnung
-> Peters Mikrofon hat diese Session durchgehend **nichts** aufgenommen (OBS-Fehlkonfiguration) — seine gesprochenen Zeilen fehlen fast komplett. Die einzige erhaltene Spur (Discord-/Desktop-Mix der übrigen Runde) wurde von der automatischen Spracherkennung zudem nur lückenhaft erfasst: Von den ca. 2 Stunden 44 Minuten Session liegen nur verstreute Bruchstücke vor, viele davon einzelne Reaktionswörter ohne Kontext. **Dieser Recap ist keine verlässliche, vollständige Zusammenfassung der Session** — bitte von Peter mündlich ergänzen lassen.
-
 ## Zusammenfassung
 
-Nur Bruchstücke verfügbar. Erkennbar ist, dass die Gruppe (oder Teile davon) erneut eine Partei zum Schicksal der Villa [[Raventree]] und zu [[Usk Umberdael|Herrn Usk]] befragt — eine direkte Fortsetzung des aus Session 1 offenen Fadens [[Schicksal von Usk und Kryn klären]]. Daneben finden sich Hinweise auf eine Befragung zu Finanzen/Schulden, eine bemerkte Insignie, mehrere Perception-/Investigation-/Persuasion-/Insight-Proben und eine Würfelspiel-Szene am Abend. Wo genau dies stattfindet (weiterhin [[Ferncombe]] oder ein neuer Ort) geht aus den Fragmenten nicht hervor — keine Ortsbezeichnung ist im Transkript erfasst.
+Die Gruppe setzt in und um [[Ferncombe]] ihre Ermittlungen rund um [[Raventree]] fort. Nach einer letzten, eher ergebnislosen Befragung am Morgen zieht sie weiter und trifft auf eine neue Partei, die [[Percival (Pryce)|Percival]] direkt auf das Schicksal der Villa und auf [[Usk Umberdael|Herrn Usk]] anspricht. Im Lauf des Tages stößt die Gruppe auf eine verschuldete Person, die offenbar mit der Ausrüstung verunglückter Abenteurer handelt, bemerkt eine auffällige Insignie an sich selbst und sammelt weitere lose Fäden. Der Abend klingt im Gasthaus aus: ein Kartenspieler, eine Runde Würfelspiel um Gold und ein hervorgeholter Brief, bevor die Gruppe für die Nacht einschläft.
 
-## Was gesichert ist (Fragmente mit Zeitstempel)
+## Was passiert ist
 
-- **[00:00–00:03]** Ein Gruppenmitglied (vermutlich [[Percival (Pryce)|Percival]], laut Transkript "Perso") schaut sich bei einer Person um und prüft auf Symbole/Narben — Versuch über Perception, dann Medicine.
-- **[00:08–00:13]** Gespräch über ein Kind, das fortziehen möchte; Vorschlag eines Internats. Beteiligte und Kontext unklar.
-- **[00:17–00:19]** Aussage: Jemand "ist in der Nacht gestorben", "also nicht in der Villa" — eine Figur zweifelt die Aussage an ("Glaubt ihr wirklich daran?").
-- **[00:23]** "Dann lasst uns aufbrechen" — die Gruppe bricht auf.
-- **[00:26–00:28]** Vorstellung bei einer neuen Partei: **"Percival Price"** (= [[Percival (Pryce)|Percival]], vermutlich eine phonetische Fehlhörung von "Pryce" durch die Spracherkennung) fragt direkt: *"Mir wurde gesagt, ihr könnt uns vielleicht mitteilen, was in der Villa vor x Jahren passiert ist und wo man einen Herrn Usk finden könnte."* — bestätigt, dass der Usk/Villa-Faden aktiv weiterverfolgt wird. Die Antwort selbst ist nicht transkribiert, nur ein Dank danach ("Gut zu wissen, vielen Dank.").
-- **[00:34]** Hinweis: ein gewirkter Zauber hält eine Minute.
-- **[00:41–00:44]** Eine Figur fragt nach, ob ihr mit Persuasion, Perception oder Insight etwas an einer Person auffällt (genannter Wurf: 27). Anschließend direkte Fragen an diese Person: *"Geht es euch finanziell vielleicht nicht so gut?"* und *"Nur private [Schulden] oder auch die Sachen, die aus der Villa gekommen sind?"* Die befragte Person räumt sinngemäß ein, dass Ausrüstung verunglückter Abenteurer bei ihr landet ("dann wandert schon mal was in eure Tasche zurück").
-- **[01:00]** Erneute Perception-Probe, diesmal an einer Wache (genannte Würfe: 15 und 5).
-- **[01:04–01:05]** Eine NPC-Partei bemerkt: *"Eine interessante Insignie habt ihr da. Woher kommt die?"* — welche Insignie gemeint ist und wem sie gehört, bleibt offen.
-- **[01:09–01:10]** Der Name **"Tito"** fällt im Kontext einer an jemanden gerichteten Frage — Zuordnung unklar.
-- **[01:19]** Frage: *"An wen waren die Schulden?"* — Fortsetzung des Finanzthemas aus [00:41–00:44].
-- **[01:21]** Eine Ermahnung, nichts zu stehlen bzw. niemandem etwas wegzunehmen.
-- **[01:42–01:44]** Beim Betreten eines Hauses: Perception-Probe; eine Figur verweist auf ihre "Detektivkollegin", die dabei Advantage habe (Stichwort "Elven Accuracy" fällt). Unter den bekannten Gruppenmitgliedern ist nur [[Rhaelis]] eine Elfin — die Zuordnung ist aber im Transkript nicht explizit bestätigt.
-- **[01:45]** Frage, ob eine Person Ähnlichkeit mit einem Händler habe.
-- **[01:47]** Beim Umschauen wird eine Person bemerkt, die Karten spielt.
-- **[01:48–01:50]** Eine Figur bittet um eine Zusammenfassung des Tages ("damit keiner irgendwas vergisst"). Fragmente danach: ein Kommentar zu einem "Familiendrama, wie in jedem Dorf", eine geäußerte Präferenz für Großstädte gegenüber abgelegenen Arbeitsorten, und die Stichworte "Macht und Ruhm".
-- **[02:11–02:14]** Eine Würfelspiel-Szene: eine Figur mit Würfel-Proficiency möchte um Gold würfeln, eine andere will eher auf Falschspieler achten.
-- **[02:32]** "Heute ist der erste Tag."
-- **[02:33]** Eine Figur holt einen Brief hervor — welchen, ist unklar.
-- **[02:44]** "Und damit schläft die Gruppe ein." — Sessionende (in der Fiktion).
+### Weitere Befragungen am Morgen
 
-## Verworfen
+Percival mustert noch einmal eine gepflegt wirkende Person auf verräterische Zeichen – Symbole, Narben, irgendetwas Auffälliges. Weder die Perception- noch die anschließende Medicine-Probe fördern etwas zutage. Das Gespräch driftet ab: Die Rede ist von einer Tochter, die unbedingt fort von hier möchte, und ein Internat wird als Lösung vorgeschlagen. Ein Gruppenmitglied zeigt Verständnis für diesen Wunsch – hier alt zu werden, klingt nicht erstrebenswert –, ein anderes hält lieber Trubel und viele Menschen um sich. Jemand aus der Runde fragt sich laut, ob man gerade zu Erziehern geworden sei, und entschuldigt sich dafür, dass das Thema eigentlich nichts mit dem Auftrag zu tun hat.
 
-- Segment **[01:28:04]**: eine ca. 100-fache Wiederholung des Wortfragments "zur..." — ein Spracherkennungs-Halluzinationsartefakt, keine reale Aussage. Nicht in diese Zusammenfassung übernommen.
+Dann kippt das Gespräch zurück: Eine Stimme behauptet, eine gesuchte Person sei in jener Nacht gestorben – allerdings nicht im Anwesen selbst. Eine Figur fragt nach, ob man das wirklich glauben solle. Percival nickt nur und verlässt mit den anderen den Raum; draußen ist sich die Gruppe nicht ganz sicher, wie glaubwürdig die Aussage ist, hält sie aber für möglicherweise hilfreich. Dann bricht man auf.
 
-## Bezug zu offenen Fäden
+### Eine neue Partei
 
-- [[Schicksal von Usk und Kryn klären]]: Die Gruppe fragt aktiv weiter nach Usk und der Villa ([00:26]–[00:28]) — eine inhaltliche Antwort ist im (lückenhaften) Transkript nicht erfasst.
-- [[Besuch beim Bürgermeister (nächster Schritt)]]: Nicht bestätigbar, ob dieser Besuch in dieser Session stattfand — keine Erwähnung eines Bürgermeisters in den erhaltenen Fragmenten.
+Die Gruppe begrüßt eine neue Partei. Percival stellt sich als „Percival Price" vor und kommt direkt zur Sache: Man habe ihnen gesagt, diese Partei könne vielleicht Auskunft geben, was vor Jahren in der Villa [[Raventree]] geschah und wo man einen Herrn [[Usk Umberdael|Usk]] finden könne. Die Antwort fällt knapp aus – die Gruppe bedankt sich höflich, ohne dass festgehalten ist, was im Einzelnen gesagt wurde. [[Schicksal von Usk und Kryn klären]] bleibt damit ein aktiv verfolgter, aber weiterhin ungelöster Faden.
 
-## Offene Fragen für Peter
+### Der Handel mit der Ausrüstung Verunglückter
 
-- Wo spielt diese Session (weiterhin Ferncombe oder ein neuer Ort)?
-- Wer sind die befragten NPCs (Finanz-NPC, Wache, Hausbesitzer, "Tito")?
-- Was wurde auf die Frage nach Usk/der Villa tatsächlich geantwortet?
-- Wessen Insignie wurde bemerkt, und woher stammt sie?
-- Wer ist die "Detektivkollegin" mit Elven Accuracy — tatsächlich Rhaelis?
-- Was stand in dem Brief bei [02:33]?
+Ein gewirkter Zauber hält eine Minute – vermutlich zur Unterstützung der folgenden Befragung. Mit einem auffällig guten Wurf bemerkt ein Gruppenmitglied etwas an einer befragten Person und spricht sie direkt auf ihre schlechte finanzielle Lage an. Auf Nachfrage, ob es sich um private Schulden handle oder um Dinge, die aus der Villa stammen, räumt die Person sinngemäß ein: Wenn Abenteurer auf dem Weg zur Villa verunglücken, landet schon einmal etwas von deren Ausrüstung in ihrer eigenen Tasche zurück. Eine beiläufige Bemerkung über das Freihalten „aller möglichen Wege" bleibt unkommentiert im Raum stehen. Die Gruppe verabschiedet sich höflich und zieht weiter.
+
+Das ist ein bemerkenswerter Fund: Die Gruppe ist offenbar nicht die erste, die sich in Richtung [[Raventree]] aufgemacht hat – frühere Abenteurer sind dort verunglückt, und ihre Habseligkeiten kursieren inzwischen im Dorf.
+
+### Streifzug durch den Ort
+
+Am Nachmittag begleitet ein Gruppenmitglied ein anderes bei weiteren Erkundigungen. Eine Einheimische bemerkt anerkennend, dass die Gruppe „Leben ins Dorf" bringe – vor allem in Form von Informationen, wie die Abenteurer selbst einwerfen: Man sei neu hier und einfach nur interessiert. Eine erneute Perception-Probe gilt einer Wache, ohne dass festgehalten ist, was genau auffällt.
+
+Bei einer weiteren Begegnung bemerkt eine unbekannte Person die Insignie, die die Gruppe bei sich trägt, und fragt interessiert nach deren Herkunft – vermutlich das Siegel, das sie im Auftrag von Haus [[Haus Corvinarus (Familie Danos)|Corvinarus]] mit sich führen, auch wenn das nicht ausdrücklich bestätigt wird. Kurz darauf fällt im Rahmen einer weiteren Frage der Name „Tito" – wer damit gemeint ist, bleibt unklar. Eine Bemerkung, etwas habe „in der Vergangenheit auch geholfen", wird mit einem knappen „In welchem Sinn?" hinterfragt, bevor die Gruppe erneut aufbricht.
+
+Das Thema Schulden taucht noch einmal auf: Jemand fragt gezielt nach, an wen die Schulden eigentlich liefen. Eine Ermahnung macht ebenfalls die Runde – niemandem solle etwas weggenommen werden. Die Gruppe nimmt es gelassen; die Begegnung sei „durchaus amüsant" gewesen.
+
+### Der Abend im Gasthaus
+
+Am Abend taucht ein bekanntes Gesicht auf, eine kurze Begegnung endet mit einem „bis zum nächsten Mal". Beim Betreten eines Hauses schaut sich die Gruppe routinemäßig um; die Perception-Probe überlässt man der „Detektivkollegin" mit den sprichwörtlich scharfen Elfenaugen – vermutlich [[Rhaelis]], die einzige Elfin der Gruppe. Jemandem fällt eine gewisse Ähnlichkeit mit einem Händler auf. Die Gruppe nimmt mit Blick zum Eingang Platz, bestellt Wasser mit Zitrone und bemerkt beim Umschauen eine Person, die Karten spielt.
+
+Zum Ausklang des Tages bittet jemand um eine kurze Zusammenfassung dessen, was man gelernt hat, „damit keiner etwas vergisst". Dabei fallen ein Kommentar über ein „Familiendrama, wie in jedem Dorf" und eine geäußerte Vorliebe für Großstädte gegenüber abgelegenen Arbeitsorten – dazwischen die Stichworte „Macht und Ruhm".
+
+Später findet sich im Gasthaus eine Runde Würfelspieler; ein Gruppenmitglied setzt sich dazu und würfelt dank eigener Proficiency um Gold, während ein anderes eher ein Auge auf mögliche Falschspieler hat und sich ansonsten aufs eigene Glück verlässt – mit eher traurigem Ausgang. Gegen Ende des Abends holt jemand einen Brief hervor, dessen Inhalt offenbleibt. Eine beiläufige Bemerkung – „Heute ist der erste Tag" – fällt, ohne dass klar wird, worauf sie sich bezieht. Mit erschöpften, aber zufriedenen Scherzen über die eigene Gesundheit schläft die Gruppe schließlich für die Nacht ein.
+
+## Wichtige Begegnungen
+
+- Eine neue Partei, die Percival direkt zu [[Usk Umberdael|Usk]] und [[Raventree]] befragt
+- Eine verschuldete Person, die mit Ausrüstung verunglückter Abenteurer handelt
+- Eine Wache, die genauer gemustert wird
+- Eine unbekannte Person, die nach der Insignie der Gruppe fragt, und der Name „Tito"
+- Ein Kartenspieler und eine Runde Würfelspieler im Gasthaus
+
+## Neue Hinweise
+
+- Die Gruppe ist offenbar nicht die erste, die sich nach [[Raventree]] aufgemacht hat: Ausrüstung verunglückter Abenteurer kursiert im Dorf und landet unter anderem bei einer verschuldeten, zwielichtigen Person.
+- Eine unbestätigte Behauptung widerspricht der bisherigen Annahme: Eine gesuchte Person soll in der Katastrophennacht gestorben sein, aber nicht auf dem Anwesen selbst. Die Gruppe selbst bleibt skeptisch.
+- Die Gruppe trägt eine Insignie bei sich, die Fremden auffällt und Fragen aufwirft – vermutlich ein Siegel des Hauses [[Haus Corvinarus (Familie Danos)|Corvinarus]].
+- Der Name „Tito" fällt im Dorf, ohne dass der Zusammenhang klar wird.
+
+## Offene Fragen
+
+- Wer war die Person, die angeblich „in der Nacht gestorben" ist, aber nicht im Anwesen – und stimmt diese Aussage überhaupt?
+- Was genau hat die neu kennengelernte Partei über Usk und die Villa verraten?
+- Wer ist „Tito", und was hat diese Person mit alldem zu tun?
+- Bei wem genau steht die verschuldete Person in der Kreide, und wer sonst noch handelt mit Gegenständen aus der Villa?
+- Was stand in dem Brief, den jemand gegen Ende des Abends hervorholte?
 
 ## Verknüpfungen
 
 - [[sessions/_index|Sessions-Übersicht]]
-- [[Transcript - Session 2 - 01.10.2026]]
+- [[Quelle - Session 2 - 01.10.2026]]
 - [[Schicksal von Usk und Kryn klären]]

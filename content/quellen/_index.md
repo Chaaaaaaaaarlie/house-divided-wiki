@@ -10,7 +10,7 @@ tags:
 # Quellen-Übersicht
 
 - [[Quelle - Session 1 Zusammenfassung]] — Spieler-Zusammenfassung zu Session 1
-- [[Transcript - Session 2 - 01.10.2026]] — automatisches Transkript zu Session 2 (lückenhaft, confidence: low)
+- [[Quelle - Session 2 - 01.10.2026]] — Notizen zu Session 2
 
 ## Verknüpfungen
 

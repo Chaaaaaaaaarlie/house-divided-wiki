@@ -29,7 +29,7 @@ Lud die Gruppe über einen Einladungsbrief der Familie [[Haus Corvinarus (Famili
 
 ## Bekanntes
 
-In [[Session 2 - 01.10.2026]] (lückenhaft aufgezeichnet) stellt er sich einer neuen Partei als "Percival" vor und fragt direkt nach dem Schicksal der Villa [[Raventree]] und nach [[Usk Umberdael|Herrn Usk]] — Fortsetzung des Fadens [[Schicksal von Usk und Kryn klären]].
+In [[Session 2 - 01.10.2026]] stellt er sich einer neuen Partei als „Percival Price" vor und fragt direkt nach dem Schicksal der Villa [[Raventree]] und nach [[Usk Umberdael|Herrn Usk]] — Fortsetzung des Fadens [[Schicksal von Usk und Kryn klären]].
 
 ## Verknüpfungen
 

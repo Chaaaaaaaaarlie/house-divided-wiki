@@ -10,7 +10,7 @@ tags:
 # Sessions-Übersicht
 
 - [[Session 1 - 24.09.2026]] — Auftrag angenommen, Ankunft in Ferncombe, erste Hinweise zur Katastrophennacht auf Raventree (Datum geschätzt)
-- [[Session 2 - 01.10.2026]] — ⚠️ lückenhaft aufgezeichnet (Mikrofonausfall) — Usk/Villa-Faden wird weiterverfolgt, Rest nur in Bruchstücken erfasst
+- [[Session 2 - 01.10.2026]] — Usk/Villa-Faden wird weiterverfolgt, Hinweise auf Ausrüstungshandel aus der Villa und eine auffällige Insignie
 
 ## Verknüpfungen
 

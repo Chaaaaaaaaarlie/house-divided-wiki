@@ -17,7 +17,7 @@ updated: 2026-10-01
 
 - [[sessions/_index|Sessions-Übersicht]]
 - [[Session 1 - 24.09.2026]] — Auftrag angenommen, Ankunft in Ferncombe (Datum geschätzt)
-- [[Session 2 - 01.10.2026]] — ⚠️ lückenhaft (Mikrofonausfall), Usk/Villa-Faden weiterverfolgt
+- [[Session 2 - 01.10.2026]] — Usk/Villa-Faden weiterverfolgt, Hinweise auf Ausrüstungshandel aus der Villa
 
 ## Figuren
 
@@ -38,7 +38,6 @@ updated: 2026-10-01
 ## Quellen
 
 - [[quellen/_index|Quellen-Übersicht]]
-- [[Transcript - Session 2 - 01.10.2026]] — ⚠️ automatisches Transkript, lückenhaft, confidence: low
 
 ## Noch leer (werden bei Bedarf befüllt)
 

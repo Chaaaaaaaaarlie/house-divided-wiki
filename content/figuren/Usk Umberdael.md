@@ -30,7 +30,7 @@ War in der Katastrophennacht anwesend und ist seitdem verschwunden. [[Noven Karl
 
 ## Bekanntes
 
-Keine weiteren Spuren seit der Katastrophennacht. In [[Session 2 - 01.10.2026]] (lückenhaft aufgezeichnet) fragt [[Percival (Pryce)|Percival]] erneut nach seinem Verbleib — ohne im Transkript erfasste Antwort.
+Keine weiteren Spuren seit der Katastrophennacht. In [[Session 2 - 01.10.2026]] fragt [[Percival (Pryce)|Percival]] eine neue Partei erneut nach seinem Verbleib — die genaue Antwort ist nicht überliefert. Eine andere befragte Person behauptet zudem, eine gesuchte Person sei in jener Nacht gestorben, aber nicht im Anwesen selbst; die Gruppe bleibt skeptisch, ob dies tatsächlich Usk betrifft.
 
 ## Verknüpfungen
 
