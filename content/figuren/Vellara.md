@@ -8,12 +8,12 @@ tags:
 entity_type: person
 role: Arkane Ermittlerin im Auftrag einer Kirche von Azuth (Spielercharakter)
 status: developing
-first_mentioned: "[[Session 1 - 24.09.2026]]"
+first_mentioned: "[[Session 1 - 17.09.2026]]"
 related:
   - "[[Percival (Pryce)]]"
   - "[[Noven Karlin]]"
 sources:
-  - "[[Session 1 - 24.09.2026]]"
+  - "[[Session 1 - 17.09.2026]]"
 ---
 
 # Vellara

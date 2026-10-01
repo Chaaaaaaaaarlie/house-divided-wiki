@@ -6,7 +6,6 @@ updated: 2026-10-01
 tags:
   - domain/sources
 source_type: session-notes
-author: Peter Konietzka
 date_published: 2026-10-01
 url:
 confidence: medium

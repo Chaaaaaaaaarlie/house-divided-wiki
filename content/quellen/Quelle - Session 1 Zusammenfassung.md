@@ -6,8 +6,7 @@ updated: 2026-10-01
 tags:
   - domain/sources
 source_type: player-summary
-author: Peter Konietzka
-date_published: 2026-09-24
+date_published: 2026-09-17
 url:
 confidence: high
 key_claims:
@@ -16,14 +15,14 @@ key_claims:
   - "Die Gruppe wurde beauftragt, Raventree bei Ferncombe auf Gefahren und Vermisste zu untersuchen."
   - "Ein mysteriöser 'eleganter Mann' erschien einem Gruppenmitglied im Traum als möglicher Patron."
 related:
-  - "[[Session 1 - 24.09.2026]]"
+  - "[[Session 1 - 17.09.2026]]"
 ---
 
 # Quelle - Session 1 Zusammenfassung
 
 ## Zusammenfassung
 
-Dies ist eine von Peter (Spieler, nicht DM) aus dem Gedächtnis verfasste deutsche Zusammenfassung der ersten Session aus eigenen Notizen. Die Zusammenfassung listet zunächst Hintergrundwissen zu Haus Corvinarus und den beteiligten Personen (Familie Danos sowie die Abenteurergruppe), gefolgt vom chronologischen Sessionverlauf: Taverne in Telflamm, Besuch beim Corvinarus-Anwesen und Auftragserteilung, Reise nach Ferncombe mit Traumbesuch, Ankunft in Ferncombe, Gespräch mit Cait, die Kobold-Fischerhütte und das Interview mit Noven Karlin.
+Dies ist eine von einem Gruppenmitglied (Spieler, nicht Spielleiter) aus dem Gedächtnis verfasste deutsche Zusammenfassung der ersten Session aus eigenen Notizen. Die Zusammenfassung listet zunächst Hintergrundwissen zu Haus Corvinarus und den beteiligten Personen (Familie Danos sowie die Abenteurergruppe), gefolgt vom chronologischen Sessionverlauf: Taverne in Telflamm, Besuch beim Corvinarus-Anwesen und Auftragserteilung, Reise nach Ferncombe mit Traumbesuch, Ankunft in Ferncombe, Gespräch mit Cait, die Kobold-Fischerhütte und das Interview mit Noven Karlin.
 
 ## Kernaussagen
 
@@ -39,5 +38,5 @@ Dies ist eine von Peter (Spieler, nicht DM) aus dem Gedächtnis verfasste deutsc
 
 ## Verknüpfungen
 
-- [[Session 1 - 24.09.2026]]
+- [[Session 1 - 17.09.2026]]
 - [[quellen/_index|Quellen-Übersicht]]

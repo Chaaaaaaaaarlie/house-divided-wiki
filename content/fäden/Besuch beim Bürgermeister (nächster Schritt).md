@@ -7,11 +7,11 @@ tags:
   - domain/threads
 status: open
 priorität: hoch
-first_appearance: "[[Session 1 - 24.09.2026]]"
+first_appearance: "[[Session 1 - 17.09.2026]]"
 related:
   - "[[Ferncombe]]"
 sources:
-  - "[[Session 1 - 24.09.2026]]"
+  - "[[Session 1 - 17.09.2026]]"
 ---
 
 # Besuch beim Bürgermeister (nächster Schritt)

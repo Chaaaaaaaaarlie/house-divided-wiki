@@ -8,14 +8,14 @@ tags:
 entity_type: person
 role: Besitzerin des Gasthauses Cait's in Ferncombe
 status: developing
-first_mentioned: "[[Session 1 - 24.09.2026]]"
+first_mentioned: "[[Session 1 - 17.09.2026]]"
 related:
   - "[[Gasthaus Cait's]]"
   - "[[Ferncombe]]"
   - "[[Franklin & Franklin]]"
   - "[[Noven Karlin]]"
 sources:
-  - "[[Session 1 - 24.09.2026]]"
+  - "[[Session 1 - 17.09.2026]]"
 ---
 
 # Cait

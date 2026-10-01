@@ -13,7 +13,7 @@ related:
   - "[[Byscilla Corvinarus-Danos]]"
   - "[[Orvinder Danos]]"
 sources:
-  - "[[Session 1 - 24.09.2026]]"
+  - "[[Session 1 - 17.09.2026]]"
 ---
 
 # Corvinarus-Anwesen (Telflamm)

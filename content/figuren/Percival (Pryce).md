@@ -8,12 +8,12 @@ tags:
 entity_type: person
 role: Ermittler, lud die Gruppe ein (Spielercharakter)
 status: developing
-first_mentioned: "[[Session 1 - 24.09.2026]]"
+first_mentioned: "[[Session 1 - 17.09.2026]]"
 related:
   - "[[Vellara]]"
   - "[[Mindy]]"
 sources:
-  - "[[Session 1 - 24.09.2026]]"
+  - "[[Session 1 - 17.09.2026]]"
   - "[[Session 2 - 01.10.2026]]"
 ---
 

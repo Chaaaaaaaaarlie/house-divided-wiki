@@ -8,13 +8,13 @@ tags:
 entity_type: person
 role: Großmutter, ehemalige Herrin des Hauses (verstorben)
 status: developing
-first_mentioned: "[[Session 1 - 24.09.2026]]"
+first_mentioned: "[[Session 1 - 17.09.2026]]"
 related:
   - "[[Darius Danos]]"
   - "[[Haus Corvinarus (Familie Danos)]]"
   - "[[Raventree]]"
 sources:
-  - "[[Session 1 - 24.09.2026]]"
+  - "[[Session 1 - 17.09.2026]]"
 ---
 
 # Ylana

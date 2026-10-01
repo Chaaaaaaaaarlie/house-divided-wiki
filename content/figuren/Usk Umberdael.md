@@ -8,13 +8,13 @@ tags:
 entity_type: person
 role: Butler des Corvinarus-Anwesens — seit 20 Jahren verschwunden
 status: developing
-first_mentioned: "[[Session 1 - 24.09.2026]]"
+first_mentioned: "[[Session 1 - 17.09.2026]]"
 related:
   - "[[Byscilla Corvinarus-Danos]]"
   - "[[Raventree]]"
   - "[[Noven Karlin]]"
 sources:
-  - "[[Session 1 - 24.09.2026]]"
+  - "[[Session 1 - 17.09.2026]]"
   - "[[Session 2 - 01.10.2026]]"
 ---
 

@@ -8,12 +8,12 @@ tags:
 entity_type: person
 role: Anführer der Kobold-Fischer bei Ferncombe
 status: seed
-first_mentioned: "[[Session 1 - 24.09.2026]]"
+first_mentioned: "[[Session 1 - 17.09.2026]]"
 related:
   - "[[Ferncombe]]"
   - "[[Familie Bock]]"
 sources:
-  - "[[Session 1 - 24.09.2026]]"
+  - "[[Session 1 - 17.09.2026]]"
 ---
 
 # Skipper

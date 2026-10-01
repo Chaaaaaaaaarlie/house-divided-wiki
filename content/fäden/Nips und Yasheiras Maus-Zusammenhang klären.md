@@ -7,12 +7,12 @@ tags:
   - domain/threads
 status: open
 priorität: niedrig
-first_appearance: "[[Session 1 - 24.09.2026]]"
+first_appearance: "[[Session 1 - 17.09.2026]]"
 related:
   - "[[Yasheira]]"
   - "[[Rhaelis]]"
 sources:
-  - "[[Session 1 - 24.09.2026]]"
+  - "[[Session 1 - 17.09.2026]]"
 ---
 
 # Nips und Yasheiras Maus-Zusammenhang klären

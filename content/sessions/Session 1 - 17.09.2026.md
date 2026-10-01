@@ -1,16 +1,15 @@
 ---
 type: source
-title: "Session 1 - 24.09.2026"
+title: "Session 1 - 17.09.2026"
 created: 2026-10-01
 updated: 2026-10-01
 tags:
   - domain/sessions
 source_type: session
 session_number: 1
-date_played: 2026-09-24
-date_confidence: estimated
+date_played: 2026-09-17
 status: mature
-confidence: medium
+confidence: high
 related:
   - "[[Byscilla Corvinarus-Danos]]"
   - "[[Orvinder Danos]]"
@@ -41,9 +40,8 @@ sources:
   - "[[Quelle - Session 1 Zusammenfassung]]"
 ---
 
-# Session 1 - 24.09.2026
+# Session 1 - 17.09.2026
 
-> [!gap] Datum geschätzt (eine Woche vor Session 2) — bitte von Peter bestätigen lassen.
 
 ## Zusammenfassung
 

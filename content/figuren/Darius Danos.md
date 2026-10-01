@@ -8,7 +8,7 @@ tags:
 entity_type: person
 role: Großvater, Aufbauer von Haus Corvinarus
 status: developing
-first_mentioned: "[[Session 1 - 24.09.2026]]"
+first_mentioned: "[[Session 1 - 17.09.2026]]"
 related:
   - "[[Ylana]]"
   - "[[Elscieth]]"
@@ -16,7 +16,7 @@ related:
   - "[[Haus Corvinarus (Familie Danos)]]"
   - "[[Raventree]]"
 sources:
-  - "[[Session 1 - 24.09.2026]]"
+  - "[[Session 1 - 17.09.2026]]"
 ---
 
 # Darius Danos

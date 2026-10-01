@@ -8,12 +8,12 @@ tags:
 entity_type: person
 role: Apotheker-Familie in Ferncombe
 status: seed
-first_mentioned: "[[Session 1 - 24.09.2026]]"
+first_mentioned: "[[Session 1 - 17.09.2026]]"
 related:
   - "[[Ferncombe]]"
   - "[[Skipper]]"
 sources:
-  - "[[Session 1 - 24.09.2026]]"
+  - "[[Session 1 - 17.09.2026]]"
 ---
 
 # Familie Bock

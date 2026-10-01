@@ -7,12 +7,12 @@ tags:
   - domain/threads
 status: open
 priorität: mittel
-first_appearance: "[[Session 1 - 24.09.2026]]"
+first_appearance: "[[Session 1 - 17.09.2026]]"
 related:
   - "[[Der elegante Mann (Patron)]]"
   - "[[Darius Danos]]"
 sources:
-  - "[[Session 1 - 24.09.2026]]"
+  - "[[Session 1 - 17.09.2026]]"
 ---
 
 # Identität des Traum-Patrons klären

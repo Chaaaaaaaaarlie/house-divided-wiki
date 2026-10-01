@@ -16,7 +16,7 @@ updated: 2026-10-01
 ## Sessions
 
 - [[sessions/_index|Sessions-Übersicht]]
-- [[Session 1 - 24.09.2026]] — Auftrag angenommen, Ankunft in Ferncombe (Datum geschätzt)
+- [[Session 1 - 17.09.2026]] — Auftrag angenommen, Ankunft in Ferncombe
 - [[Session 2 - 01.10.2026]] — Usk/Villa-Faden weiterverfolgt, Hinweise auf Ausrüstungshandel aus der Villa
 
 ## Figuren

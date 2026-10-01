@@ -8,13 +8,13 @@ tags:
 entity_type: person
 role: Überlebender Bediensteter des Anwesens Raventree
 status: developing
-first_mentioned: "[[Session 1 - 24.09.2026]]"
+first_mentioned: "[[Session 1 - 17.09.2026]]"
 related:
   - "[[Raventree]]"
   - "[[Usk Umberdael]]"
   - "[[Vellara]]"
 sources:
-  - "[[Session 1 - 24.09.2026]]"
+  - "[[Session 1 - 17.09.2026]]"
 ---
 
 # Noven Karlin

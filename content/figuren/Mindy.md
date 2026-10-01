@@ -8,11 +8,11 @@ tags:
 entity_type: person
 role: Tavernenwirtin in Telflamm
 status: seed
-first_mentioned: "[[Session 1 - 24.09.2026]]"
+first_mentioned: "[[Session 1 - 17.09.2026]]"
 related:
   - "[[Telflamm]]"
 sources:
-  - "[[Session 1 - 24.09.2026]]"
+  - "[[Session 1 - 17.09.2026]]"
 ---
 
 # Mindy
