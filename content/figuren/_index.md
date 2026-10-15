@@ -2,7 +2,7 @@
 type: meta
 title: "Figuren-Übersicht"
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-15
 tags:
   - domain/characters
 ---
@@ -42,6 +42,7 @@ tags:
 ## Unbekannte / Mysteriöse Figuren
 
 - [[Der elegante Mann (Patron)]] — Traum-Patron, Identität unbekannt
+- [[Perius Amnata]] — Name aus dem Gästebuch von Raventree, Mitglied des Adelshauses Amnata
 
 ## Verknüpfungen
 

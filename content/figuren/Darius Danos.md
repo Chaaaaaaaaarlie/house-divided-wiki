@@ -2,7 +2,7 @@
 type: entity
 title: "Darius Danos"
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-15
 tags:
   - domain/characters
 entity_type: person
@@ -17,6 +17,7 @@ related:
   - "[[Raventree]]"
 sources:
   - "[[Session 1 - 17.09.2026]]"
+  - "[[Session 3 - 15.10.2026]]"
 ---
 
 # Darius Danos
@@ -35,9 +36,13 @@ Vermutlich der "mächtige Magier", dessen Arbeitszimmer der [[Der elegante Mann 
 - Hat zwei Kinder: [[Elscieth]] (nicht magiebegabt) und [[Kryn]].
 - Hat nie festgelegt, dass nur ein magiebegabter Erbe erben dürfe — das war Kryns Behauptung.
 - Verbleib seit der Katastrophennacht unbekannt.
+- In der Bibliothek von Raventree findet die Gruppe in Session 3 einen silbernen Brieföffner mit den Initialen „D.C." sowie einen brüchigen, noch ungelesenen Brief, der mit „Lieber Darius" beginnt — vermutlich seine persönlichen Gegenstände.
+
+> [!gap] Auf einem Balkon über der Bibliothek von Raventree findet die Gruppe einen beschädigten Teleportationskreis mit fester Zielverbindung. Ob Darius ihn selbst erschaffen hat, ist unbestätigt — siehe [[Teleportationskreis in Raventree erforschen]].
 
 ## Verknüpfungen
 
 - [[figuren/_index|Figuren-Übersicht]]
 - [[Haus Corvinarus (Familie Danos)]]
 - [[Raventree]]
+- [[Teleportationskreis in Raventree erforschen]]

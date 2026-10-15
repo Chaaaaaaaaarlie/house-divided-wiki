@@ -2,7 +2,7 @@
 type: meta
 title: "Fäden-Übersicht"
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-15
 tags:
   - domain/threads
 ---
@@ -17,6 +17,8 @@ tags:
 - [[Identität des Traum-Patrons klären]]
 - [[Nips und Yasheiras Maus-Zusammenhang klären]]
 - [[Besuch beim Bürgermeister (nächster Schritt)]] — unmittelbarer nächster Schritt
+- [[Teleportationskreis in Raventree erforschen]] — neu seit Session 3
+- [[Yasheiras Pakt mit dem Imp klären]] — neu seit Session 3
 
 ## Verknüpfungen
 

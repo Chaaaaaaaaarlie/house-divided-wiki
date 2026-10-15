@@ -2,7 +2,7 @@
 type: concept
 title: "Testament finden"
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-15
 tags:
   - domain/threads
 status: open
@@ -14,6 +14,7 @@ related:
   - "[[Byscilla Corvinarus-Danos]]"
 sources:
   - "[[Session 1 - 17.09.2026]]"
+  - "[[Session 3 - 15.10.2026]]"
 ---
 
 # Testament finden
@@ -22,6 +23,7 @@ sources:
 
 - Teil des Auftrags von [[Byscilla Corvinarus-Danos|Byscilla]]: Das Testament von [[Darius Danos|Darius]] auf [[Raventree]] finden.
 - Byscilla erbte bisher nur aufgrund einer Gerichtsentscheidung nach 20 Jahren Abwesenheit aller anderen Erben — nicht aufgrund eines bekannten Testaments.
+- In der Bibliothek von Raventree findet die Gruppe in Session 3 einen silbernen Brieföffner mit den Initialen „D.C." sowie einen brüchigen, noch ungelesenen Brief an Darius — erste persönliche Spuren von ihm, aber kein Testament.
 
 ## Hypothesen
 

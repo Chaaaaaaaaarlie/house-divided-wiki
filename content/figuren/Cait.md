@@ -2,7 +2,7 @@
 type: entity
 title: "Cait"
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-15
 tags:
   - domain/characters
 entity_type: person
@@ -16,6 +16,7 @@ related:
   - "[[Noven Karlin]]"
 sources:
   - "[[Session 1 - 17.09.2026]]"
+  - "[[Session 3 - 15.10.2026]]"
 ---
 
 # Cait
@@ -27,6 +28,8 @@ Besitzerin des [[Gasthaus Cait's|Gasthauses Cait's]] in [[Ferncombe]], geerbt vo
 ## Rolle in der Kampagne
 
 Erste Anlaufstelle der Gruppe in Ferncombe. Kennt die Schauergeschichten um das Anwesen [[Raventree]] (nachts angeblich schlimmer: Geräusche, Lichter). Kennt den Namen "Usk" nicht. Verweist die Gruppe auf [[Franklin & Franklin]] und [[Noven Karlin]].
+
+Versorgt in [[Session 3 - 15.10.2026]] sowohl die Dorfmiliz als auch die Gruppe mit einem ausgiebigen Frühstück, bevor diese zum Anwesen Raventree aufbricht.
 
 ## Bekanntes
 

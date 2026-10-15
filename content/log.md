@@ -2,10 +2,20 @@
 type: meta
 title: "Vorgangs-Protokoll"
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-15
 ---
 
 # Vorgangs-Protokoll
+
+## [2026-10-15] ingest | Session 3
+
+- Quelle: ausführliche Sitzungsnotizen zur dritten Session.
+- Quellen-Zusammenfassung erstellt: [[Quelle - Session 3 - 15.10.2026]].
+- Session-Seite erstellt: [[Session 3 - 15.10.2026]] — die Gruppe betritt erstmals das Anwesen Raventree, erkundet Vorhalle und Bibliothek, besteht zwei Kämpfe gegen Bücherschwärme und entdeckt einen beschädigten Teleportationskreis mit fester Zielverbindung.
+- Neue Seiten: [[Perius Amnata]] (Figur), [[Bücherschwarm (Raventree)]] (Kreatur, inkl. neuem `wiki/kreaturen/_index.md`), [[Teleportationskreis in Raventree erforschen]] und [[Yasheiras Pakt mit dem Imp klären]] (Fäden).
+- Aktualisierte Seiten: [[Raventree]] (deutlich erweitert: Vorhalle, Bibliothek, Teleportationskreis), [[Haus Corvinarus (Familie Danos)]] (Adelshaus Amnata als Gap-Notiz), [[Darius Danos]] (Brieföffner, Brief, Teleportationskreis-Gap), [[Raventree-Anwesen untersuchen (Gefahren und Vermisste)]], [[Testament finden]], [[Percival (Pryce)]], [[Vellara]], [[Rhaelis]], [[Kaelen]], [[Yasheira]], [[Cait]].
+- `wiki/index.md`, `wiki/overview.md`, `wiki/hot.md`, `wiki/sessions/_index.md`, `wiki/fäden/_index.md`, `wiki/orte/_index.md`, `wiki/figuren/_index.md`, `wiki/quellen/_index.md` und `Willkommen.md` entsprechend aktualisiert.
+- Kernaussage: Nach zwei Sessions reiner Ermittlungsarbeit in Ferncombe steht die Gruppe erstmals im Inneren von Raventree — mit einem neuen, zentralen Rätsel (dem Teleportationskreis) und einem neuen Hinweis auf Yasheiras bislang verborgenen Pakt.
 
 ## [2026-10-01] revision | Session 2 überarbeitet
 

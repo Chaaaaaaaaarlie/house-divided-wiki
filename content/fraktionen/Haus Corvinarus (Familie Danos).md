@@ -2,7 +2,7 @@
 type: entity
 title: "Haus Corvinarus (Familie Danos)"
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-15
 tags:
   - domain/factions
 entity_type: organization
@@ -20,6 +20,7 @@ related:
   - "[[Raventree]]"
 sources:
   - "[[Session 1 - 17.09.2026]]"
+  - "[[Session 3 - 15.10.2026]]"
 ---
 
 # Haus Corvinarus (Familie Danos)
@@ -47,6 +48,8 @@ Handel mit magischen Artefakten. Aktuell: das Erbe und die Geschäfte unter [[By
 ## Verbündete und Gegner
 
 > [!gap] Rausset — allgemeine Händlerfamilie, bislang nur Hintergrundwissen, in dieser Session nicht aufgetaucht. Beziehung zu Haus Corvinarus unbekannt.
+
+> [!gap] Amnata — benachbartes Adelshaus; laut einem Gästebuch-Fund in der Vorhalle von [[Raventree]] (Eintrag [[Perius Amnata]]) möglicherweise bei früheren Festen zu Gast. Beziehung zu Haus Corvinarus unbekannt.
 
 ## Verknüpfungen
 
