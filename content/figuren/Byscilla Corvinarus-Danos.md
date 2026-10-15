@@ -2,7 +2,7 @@
 type: entity
 title: "Byscilla Corvinarus-Danos"
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-15
 tags:
   - domain/characters
 entity_type: person
@@ -17,6 +17,7 @@ related:
   - "[[Corvinarus-Anwesen (Telflamm)]]"
 sources:
   - "[[Session 1 - 17.09.2026]]"
+  - "[[Brief - Darius an seine Tochter]]"
 ---
 
 # Byscilla Corvinarus-Danos
@@ -32,6 +33,7 @@ Auftraggeberin der Gruppe. Erbte das Anwesen [[Raventree]], nachdem Gerichte nac
 ## Bekanntes
 
 - [[Kryn]] behauptete, nur ein magiebegabter Erbe dürfe erben — ihr Großvater [[Darius Danos|Darius]] hatte das nie so festgelegt.
+- Tochter von [[Elscieth]] und [[Betrand]], Enkelin von Darius — in Darius' Brief als „kleine Byscilla" erwähnt ([[Brief - Darius an seine Tochter]]).
 - Insight-Check der Gruppe: Sie wirkt nicht, als würde sie etwas verstecken.
 - Sie will das Anwesen Raventree wieder aufbauen, sobald es für sicher erklärt wurde.
 

@@ -15,6 +15,7 @@ tags:
 - [[Orvinder Danos]] — ihr Mann
 - [[Darius Danos]] — Großvater, verschollener Magier
 - [[Ylana]] — Großmutter, verstorben
+- [[Betrand]] — Ehemann von Elscieth, Vater von Byscilla
 - [[Elscieth]] — Mutter, nicht magiebegabt
 - [[Kryn]] — Onkel, seit der Katastrophe verschwunden
 - [[Usk Umberdael]] — Butler, seit der Katastrophe verschwunden

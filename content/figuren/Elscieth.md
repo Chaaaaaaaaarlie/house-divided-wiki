@@ -2,7 +2,7 @@
 type: entity
 title: "Elscieth"
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-15
 tags:
   - domain/characters
 entity_type: person
@@ -14,8 +14,10 @@ related:
   - "[[Ylana]]"
   - "[[Kryn]]"
   - "[[Byscilla Corvinarus-Danos]]"
+  - "[[Betrand]]"
 sources:
   - "[[Session 1 - 17.09.2026]]"
+  - "[[Brief - Darius an seine Tochter]]"
 ---
 
 # Elscieth
@@ -31,7 +33,9 @@ War trotz Zerwürfnisses mit ihrem Bruder [[Kryn]] in der Katastrophennacht zu G
 ## Bekanntes
 
 - Streit mit Kryn drehte sich um das Erbe und "die Frau von Kryn".
-- Vermutlich Mutter von [[Byscilla Corvinarus-Danos|Byscilla]] (Verwandtschaftsverhältnis aus dem Kontext erschlossen, nicht explizit bestätigt).
+- Mutter von [[Byscilla Corvinarus-Danos|Byscilla]], verheiratet mit [[Betrand]] — bestätigt durch Darius' Brief an seine Tochter ([[Brief - Darius an seine Tochter]]).
+- Hatte ihrem Vater geschrieben, wie sehr es sie schmerze, seinen „Abstieg in alles verzehrende Trauer" mitanzusehen.
+- Darius warnte sie vor der „Grausamkeit ihres Bruders" Kryn, lud sie aber trotzdem zur Gedenkfeier ein, in der Hoffnung auf Versöhnung.
 
 > [!gap] Ob Elscieth die Katastrophennacht überlebt hat, ist unbekannt.
 

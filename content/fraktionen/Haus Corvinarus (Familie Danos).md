@@ -21,6 +21,7 @@ related:
 sources:
   - "[[Session 1 - 17.09.2026]]"
   - "[[Session 3 - 15.10.2026]]"
+  - "[[Brief - Darius an seine Tochter]]"
 ---
 
 # Haus Corvinarus (Familie Danos)
@@ -39,9 +40,10 @@ Handel mit magischen Artefakten. Aktuell: das Erbe und die Geschäfte unter [[By
 
 - [[Byscilla Corvinarus-Danos]] — aktuelle Herrin des Hauses
 - [[Orvinder Danos]] — ihr Mann
-- [[Darius Danos]] — Großvater, Aufbauer des Hauses, verschollen
+- [[Darius Danos]] — Großvater, Aufbauer des Hauses, verschollen (unterschreibt als „Darius Corvinarus")
 - [[Ylana]] — Großmutter, verstorben vor der Katastrophe
 - [[Elscieth]] — Mutter, nicht magiebegabt
+- [[Betrand]] — Vater, Elscieths Ehemann
 - [[Kryn]] — Onkel, seit der Katastrophe verschwunden
 - [[Usk Umberdael]] — Butler, seit der Katastrophe verschwunden
 

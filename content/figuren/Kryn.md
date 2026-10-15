@@ -2,7 +2,7 @@
 type: entity
 title: "Kryn"
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-15
 tags:
   - domain/characters
 entity_type: person
@@ -15,6 +15,7 @@ related:
   - "[[Byscilla Corvinarus-Danos]]"
 sources:
   - "[[Session 1 - 17.09.2026]]"
+  - "[[Brief - Darius an seine Tochter]]"
 ---
 
 # Kryn
@@ -30,7 +31,8 @@ Seit der Katastrophennacht (vor 20 Jahren) spurlos verschwunden — daher fiel d
 ## Bekanntes
 
 - Streit mit [[Elscieth]] drehte sich um das Erbe und "die Frau von Kryn".
-- War in der Katastrophennacht auf [[Raventree]] anwesend.
+- War in der Katastrophennacht auf [[Raventree]] anwesend — [[Darius Danos|Darius]] hatte ihn ausdrücklich zur Gedenkfeier für [[Ylana]] eingeladen ([[Brief - Darius an seine Tochter]]).
+- Darius selbst spricht im Brief von der „Grausamkeit" Kryns gegenüber seiner Schwester.
 
 ## Verknüpfungen
 

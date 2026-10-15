@@ -29,13 +29,14 @@ related:
   - "[[Testament finden]]"
 sources:
   - "[[Quelle - Session 3 - 15.10.2026]]"
+  - "[[Brief - Darius an seine Tochter]]"
 ---
 
 # Session 3 - 15.10.2026
 
 ## Zusammenfassung
 
-Die Gruppe bricht von [[Ferncombe]] auf und erreicht nach einem beschwerlichen Fußmarsch durch verwildertes Gelände endlich das Anwesen [[Raventree]] selbst. In der eingestürzten Vorhalle und der angrenzenden Bibliothek entdeckt sie erste greifbare Spuren der Katastrophennacht: ein beschädigtes Gästebuch, einen Brief und einen Brieföffner mit Bezug zu [[Darius Danos|Darius]], ein einst magisch geschütztes Buch über planare Bindungen und Portale – und, auf einem eingestürzten Balkon über der Bibliothek, einen beschädigten magischen Kreis, der offenbar zu einem einzigen, selbst erschaffenen Zielort führt. Unterwegs dorthin verteidigt sich die Gruppe gegen mehrere Schwärme animierter Bücher und erhält von einem kleinen, spöttischen Vertrauten einen kryptischen Hinweis auf eine zweite, besser geordnete Bibliothek irgendwo auf dem Anwesen.
+Die Gruppe bricht von [[Ferncombe]] auf und erreicht nach einem beschwerlichen Fußmarsch durch verwildertes Gelände endlich das Anwesen [[Raventree]] selbst. In der eingestürzten Vorhalle und der angrenzenden Bibliothek entdeckt sie erste greifbare Spuren der Katastrophennacht: ein beschädigtes Gästebuch, einen Brief und einen Brieföffner von [[Darius Danos|Darius]], ein einst magisch geschütztes Buch über planare Bindungen und Portale – und, auf einem eingestürzten Balkon über der Bibliothek, einen beschädigten magischen Kreis, der offenbar zu einem einzigen, selbst erschaffenen Zielort führt. Unterwegs dorthin verteidigt sich die Gruppe gegen mehrere Schwärme animierter Bücher und erhält von einem kleinen, spöttischen Vertrauten einen kryptischen Hinweis auf eine zweite, besser geordnete Bibliothek irgendwo auf dem Anwesen.
 
 ## Was passiert ist
 
@@ -67,7 +68,7 @@ Beim anschließenden Durchsuchen der Bibliothek macht die Gruppe mehrere bemerke
 
 - Rhaelis entdeckt ein einst magisch konserviertes Buch mit dem Titel **„Planar Bindings and Portals"** – die Schutzmagie ist nach zwanzig Jahren verblasst, doch der Zustand des Buches zeigt, dass es bewusst besonders sorgfältig aufbewahrt wurde.
 - In einer südöstlichen Ecke steht eine eiserne Vitrine, deren Schloss längst verrostet und unlösbar festgefressen ist – offenbar hatte schon vor Jahren jemand erfolglos versucht, sie aufzubrechen. Kaelen reaktiviert mit einem kleinen Reparaturzauber überraschend die verwitterten Schutzrunen der Vitrine, wodurch sich das Schloss wieder normal öffnen lässt; Percival knackt es daraufhin mit seinem Dietrich. In der Vitrine liegen drei mit arkanen Runen beschriebene Schriftrollen, die die Gruppe einsteckt, um sie später zu untersuchen.
-- An einem noch halbwegs intakten Lesetisch findet sich ein silberner, dolchartiger Brieföffner, fein graviert mit den Initialen **„D.C."** – vermutlich ein persönlicher Gegenstand Darius'. Daneben liegt ein brüchiger, handschriftlicher Brief, der mit den Worten „Lieber Darius" beginnt; die Gruppe nimmt ihn mit, um ihn in Ruhe zu entziffern.
+- An einem noch halbwegs intakten Lesetisch findet sich ein silberner, dolchartiger Brieföffner, fein graviert mit den Initialen **„D.C."** – vermutlich ein persönlicher Gegenstand Darius'. Daneben liegt ein brüchiger, handschriftlicher Brief, den die Gruppe mitnimmt. Er stammt von Darius selbst – unterschrieben mit „Darius Corvinarus" – und ist an seine Tochter gerichtet: eine Entschuldigung für seine trauerbedingte Abwesenheit und die Einladung zur Gedenkfeier an [[Ylana]]s Todestag, zu der er auch ihren Bruder [[Kryn]] geladen hat (siehe [[Brief - Darius an seine Tochter]]).
 - Eine gründliche Suche fördert eine zweite verborgene Tür in der Bibliothek zutage.
 
 ### Der Teleportationskreis
@@ -90,7 +91,7 @@ Von der Bibliothek aus wechselt die Gruppe auf einen weiteren Balkon, der die Vo
 
 - Das Anwesen [[Raventree]] ist nach zwanzig Jahren endlich betreten; Vorhalle und Bibliothek sind erkundet, weite Teile des Hauses noch nicht.
 - Das Gästebuch nennt als letzten lesbaren Eintrag [[Perius Amnata]] aus dem benachbarten Adelshaus Amnata – ein möglicher Festgast der Katastrophennacht.
-- In der Bibliothek finden sich ein Brieföffner mit den Initialen „D.C." und ein noch ungelesener Brief an Darius – erste greifbare, persönliche Spuren von [[Darius Danos|Darius]] selbst.
+- In der Bibliothek finden sich ein Brieföffner mit den Initialen „D.C." und ein Brief von Darius an seine Tochter mit der Einladung zur Gedenkfeier, die zur Katastrophennacht wurde – erste greifbare, persönliche Spuren von [[Darius Danos|Darius]] selbst.
 - Ein beschädigter Teleportationskreis auf einem Balkon über der Bibliothek führt zu einem einzigen, offenbar eigens erschaffenen Zielort – möglicherweise verbunden mit dem Verschwinden der Festgäste vor zwanzig Jahren.
 - Yasheiras Vertrauter zeigt sich erstmals offen, handelt nur gegen Seelen und deutet eine unbeglichene Schuld gegenüber Vellara an.
 - Ein Hinweis auf eine zweite, besser geordnete Bibliothek Darius' irgendwo auf dem Anwesen.
@@ -98,7 +99,7 @@ Von der Bibliothek aus wechselt die Gruppe auf einen weiteren Balkon, der die Vo
 ## Offene Fragen
 
 - Wohin führt der Teleportationskreis tatsächlich, und wie ließe er sich reparieren?
-- Was steht in dem Brief an Darius, und was verraten die drei gefundenen Schriftrollen?
+- Was verraten die drei gefundenen Schriftrollen, und warum liegt Darius' Brief an seine Tochter noch in Raventree?
 - Wo befindet sich Darius' private, besser geordnete Büchersammlung?
 - Wer ist Yasheiras Patron, und welche Schuld meint ihr Vertrauter gegenüber Vellara?
 - Was liegt hinter der letzten noch ungeöffneten Tür auf dem Balkon über der Vorhalle?

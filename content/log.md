@@ -7,6 +7,13 @@ updated: 2026-10-15
 
 # Vorgangs-Protokoll
 
+## [2026-10-15] ingest | Brief von Darius
+
+- Quelle: in Raventree gefundener Brief (Handout), abgelegt unter `.raw/handouts/`; Quellenseite [[Brief - Darius an seine Tochter]].
+- Neue Seite: [[Betrand]].
+- Aktualisiert: [[Session 3 - 15.10.2026]] (Brief korrekt als Brief **von** Darius an seine Tochter), [[Darius Danos]], [[Elscieth]], [[Kryn]], [[Byscilla Corvinarus-Danos]], [[Ylana]], [[Haus Corvinarus (Familie Danos)]], [[Raventree]], [[Quelle - Session 3 - 15.10.2026]], `wiki/hot.md`, `wiki/figuren/_index.md`, `wiki/quellen/_index.md`.
+- Kernaussage: Das Fest der Katastrophennacht war Darius' Gedenkfeier für Ylana, zu der er Elscieth und Kryn trotz ihres Zerwürfnisses gemeinsam eingeladen hatte.
+
 ## [2026-10-15] ingest | Session 3
 
 - Quelle: ausführliche Sitzungsnotizen zur dritten Session.

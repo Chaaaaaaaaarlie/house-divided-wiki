@@ -12,7 +12,7 @@ confidence: high
 key_claims:
   - "Die Gruppe erreicht nach einem mehrstündigen Fußmarsch endlich das Anwesen Raventree und betritt es erstmals."
   - "In der Vorhalle findet sich ein beschädigtes Gästebuch mit dem letzten lesbaren Eintrag 'Perius Amnata'."
-  - "In der Bibliothek werden zwei Schwärme animierter Bücher bekämpft und mehrere Gegenstände gefunden: ein Buch über planare Bindungen, drei Schriftrollen, ein Brieföffner mit den Initialen 'D.C.' und ein Brief an Darius."
+  - "In der Bibliothek werden zwei Schwärme animierter Bücher bekämpft und mehrere Gegenstände gefunden: ein Buch über planare Bindungen, drei Schriftrollen, ein Brieföffner mit den Initialen 'D.C.' und ein Brief von Darius an seine Tochter."
   - "Auf einem Balkon über der Bibliothek entdeckt die Gruppe einen beschädigten Teleportationskreis mit fester, einzelner Zielverbindung."
   - "Yasheiras Vertrauter zeigt sich erstmals offen und deutet eine unbeglichene Schuld gegenüber Vellara an."
 related:
@@ -31,12 +31,12 @@ Ausführliche Sitzungsnotizen zur dritten Session, deutlich detailreicher als di
 - Der vierstündige Fußweg durch verwildertes Gelände bringt die Gruppe gegen Mittag erstmals zum Anwesen Raventree.
 - In der Vorhalle liegt ein gewaltiger herabgestürzter Kristallleuchter; unter Trümmern findet sich ein beschädigtes Gästebuch mit dem letzten lesbaren Eintrag „Perius Amnata" aus dem benachbarten Adelshaus Amnata.
 - In der Bibliothek greifen zwei Schwärme animierter Bücher die Gruppe an und werden ohne nennenswerte Verluste besiegt.
-- Funde in der Bibliothek: ein einst magisch konserviertes Buch „Planar Bindings and Portals", drei arkane Schriftrollen aus einer wiederhergestellten Vitrine, ein silberner Brieföffner mit den Initialen „D.C." und ein noch ungelesener Brief an Darius.
+- Funde in der Bibliothek: ein einst magisch konserviertes Buch „Planar Bindings and Portals", drei arkane Schriftrollen aus einer wiederhergestellten Vitrine, ein silberner Brieföffner mit den Initialen „D.C." und ein Brief von Darius an seine Tochter (Wortlaut: [[Brief - Darius an seine Tochter]]).
 - Auf einem Balkon über der Bibliothek identifiziert Vellara einen beschädigten Teleportationskreis, der fest mit einem einzigen, offenbar eigens erschaffenen Zielort verbunden ist.
 - Yasheiras Vertrauter zeigt sich erstmals offen, handelt nur gegen Seelen, deutet eine unbeglichene Schuld gegenüber Vellara an und verweist auf eine zweite, besser geordnete Bibliothek Darius' auf dem Anwesen.
 - Die Session endet auf einem weiteren Balkon über der Vorhalle, vor einer letzten noch ungeöffneten Tür.
 
-> [!gap] Der genaue Wortlaut des Briefes an Darius ist nicht überliefert, ebenso wenig der Inhalt der drei gefundenen Schriftrollen.
+> [!gap] Der Inhalt der drei gefundenen Schriftrollen ist noch nicht bekannt.
 
 ## Verknüpfungen
 

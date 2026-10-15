@@ -40,7 +40,7 @@ Auf dem Balkon über der Vorhalle liegt eine durch Wind und Wetter dauerhaft ver
 
 ### Bibliothek
 
-Ein gewaltiger, gewölbter Raum mit einer eingestürzten Empore; zerschlagene Regale und verstreute Bücher bedecken den Boden, dazwischen die Kadaver kleiner, von herabstürzenden Regalen erschlagener Tiere. Beherbergt mindestens zwei [[Bücherschwarm (Raventree)|Bücherschwärme]], die beim Durchsuchen der Regale angreifen. Funde: ein einst magisch konserviertes Buch „Planar Bindings and Portals", eine wiederhergestellte Vitrine mit drei arkanen Schriftrollen, ein silberner Brieföffner mit den Initialen „D.C." und ein noch ungelesener Brief an Darius.
+Ein gewaltiger, gewölbter Raum mit einer eingestürzten Empore; zerschlagene Regale und verstreute Bücher bedecken den Boden, dazwischen die Kadaver kleiner, von herabstürzenden Regalen erschlagener Tiere. Beherbergt mindestens zwei [[Bücherschwarm (Raventree)|Bücherschwärme]], die beim Durchsuchen der Regale angreifen. Funde: ein einst magisch konserviertes Buch „Planar Bindings and Portals", eine wiederhergestellte Vitrine mit drei arkanen Schriftrollen, ein silberner Brieföffner mit den Initialen „D.C." und ein Brief von Darius an seine Tochter mit der Einladung zur Gedenkfeier an Ylanas Todestag ([[Brief - Darius an seine Tochter]]).
 
 Über eine südliche, teils eingestürzte Empore erreichbar: ein Balkon mit einem beschädigten, aus Electrum gegossenen Teleportationskreis mit fester, einzelner Zielverbindung — siehe [[Teleportationskreis in Raventree erforschen]].
 

@@ -23,7 +23,7 @@ sources:
 
 - Teil des Auftrags von [[Byscilla Corvinarus-Danos|Byscilla]]: Das Testament von [[Darius Danos|Darius]] auf [[Raventree]] finden.
 - Byscilla erbte bisher nur aufgrund einer Gerichtsentscheidung nach 20 Jahren Abwesenheit aller anderen Erben — nicht aufgrund eines bekannten Testaments.
-- In der Bibliothek von Raventree findet die Gruppe in Session 3 einen silbernen Brieföffner mit den Initialen „D.C." sowie einen brüchigen, noch ungelesenen Brief an Darius — erste persönliche Spuren von ihm, aber kein Testament.
+- In der Bibliothek von Raventree findet die Gruppe in Session 3 einen silbernen Brieföffner mit den Initialen „D.C." sowie einen Brief von ihm an seine Tochter ([[Brief - Darius an seine Tochter]]) — erste persönliche Spuren von ihm, aber kein Hinweis auf ein Testament.
 
 ## Hypothesen
 
