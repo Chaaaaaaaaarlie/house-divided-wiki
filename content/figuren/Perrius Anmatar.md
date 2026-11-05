@@ -29,7 +29,6 @@ Bislang nur als Name im Gästebuch bekannt. Ob er in der Katastrophennacht vor z
 
 ## Bekanntes
 
-- Schreibweise bestätigt: Perrius mit Doppel-R, aus dem Haus Anmatar.
 - In [[Session 4 - 05.11.2026]] hält die Gruppe noch einmal fest, dass er der letzte Gast im Gästebuch von [[Raventree]] war.
 
 ## Verknüpfungen

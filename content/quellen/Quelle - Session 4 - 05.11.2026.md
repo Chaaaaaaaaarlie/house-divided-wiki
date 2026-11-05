@@ -16,7 +16,7 @@ key_claims:
   - "In einem begehbaren Kleiderschrank greifen verfluchte Mäntel die Gruppe an; einer umschlingt Yasheira."
   - "Ein Zimmer im Obergeschoss enthält allem Anschein nach Spuren von Elscieth, darunter einen Gegenstand mit einer Widmung, offenbar von ihrem Ehemann."
   - "Die Gruppe übernachtet nicht im Anwesen und kehrt nach Ferncombe zurück."
-  - "Perrius Anmatar (Doppel-R, Haus Anmatar) war der letzte Gast im Gästebuch."
+  - "Perrius Anmatar aus dem Haus Anmatar war der letzte Gast im Gästebuch."
 related:
   - "[[Session 4 - 05.11.2026]]"
 ---

@@ -81,7 +81,7 @@ Einig ist sich die Gruppe in einem Punkt: Im Anwesen wird definitiv nicht übern
 
 ### Der letzte Gast im Gästebuch
 
-Beim Abendessen fällt Percival beim Durchsehen seiner Notizen noch etwas auf: [[Perrius Anmatar]] war der letzte Gast, der sich in das Gästebuch von Raventree eingetragen hatte. Die Gruppe klärt dabei auch die genaue Schreibweise – Perrius mit Doppel-R, aus dem Haus Anmatar.
+Beim Abendessen fällt Percival beim Durchsehen seiner Notizen noch etwas auf: [[Perrius Anmatar]] war der letzte Gast, der sich in das Gästebuch von Raventree eingetragen hatte..
 
 ## Wichtige Begegnungen
 

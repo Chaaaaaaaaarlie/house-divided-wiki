@@ -18,7 +18,7 @@ updated: 2026-11-05
 - Ein Zimmer neben einem Badezimmer enthält allem Anschein nach Spuren von [[Elscieth]] — u. a. ein Gegenstand mit Widmung, offenbar von ihrem Ehemann, aber ohne Initiale (Absender [[Betrand]] unbestätigt).
 - Percivals verzauberter Dolch wird per Ritual identifiziert (vermutet: Bezauberung).
 - Die Gruppe übernachtet nicht im Anwesen, kehrt nach Ferncombe zurück und schlägt den Pfad teilweise frei.
-- [[Perrius Anmatar]] (Doppel-R, Haus Anmatar) war der letzte Gast im Gästebuch.
+- [[Perrius Anmatar]] aus dem Haus Anmatar war der letzte Gast im Gästebuch.
 
 ## Recent Changes
 
