@@ -13,14 +13,13 @@ related:
   - "[[Ylana]]"
   - "[[Elscieth]]"
   - "[[Kryn]]"
-  - "[[Betrand]]"
+  - "[[Bartram]]"
   - "[[Haus Corvinarus (Familie Danos)]]"
   - "[[Raventree]]"
 sources:
   - "[[Session 1 - 17.09.2026]]"
   - "[[Session 3 - 15.10.2026]]"
   - "[[Brief - Darius an seine Tochter]]"
-  - "[[Session 4 - 05.11.2026]]"
 ---
 
 # Darius Danos
@@ -39,9 +38,8 @@ Vermutlich der "mächtige Magier", dessen Arbeitszimmer der [[Der elegante Mann 
 - Hat zwei Kinder: [[Elscieth]] (nicht magiebegabt) und [[Kryn]].
 - Hat nie festgelegt, dass nur ein magiebegabter Erbe erben dürfe — das war Kryns Behauptung.
 - Verbleib seit der Katastrophennacht unbekannt.
-- Im Salon von [[Raventree]] hängt ein großes Porträt von ihm, hinter dem der untere Zugang einer verborgenen Treppe zur Gästesuite liegt ([[Session 4 - 05.11.2026]]).
 - In der Bibliothek von Raventree findet die Gruppe in Session 3 einen silbernen Brieföffner mit den Initialen „D.C." (Darius Corvinarus) sowie einen Brief von ihm an seine Tochter — siehe [[Brief - Darius an seine Tochter]].
-- Im Brief gesteht er seinen „Abstieg in alles verzehrende Trauer" nach Ylanas Tod ein, entschuldigt sich, Tochter, [[Betrand]] und die kleine Byscilla über ein Jahr nicht besucht zu haben, und lädt zur Gedenkfeier an Ylanas Todestag ein — mit Familie, Freunden und Würdenträgern, Abendessen und Tanz. Auch [[Kryn]] ist eingeladen; Darius hofft auf eine Versöhnung seiner Kinder.
+- Im Brief gesteht er seinen „Abstieg in alles verzehrende Trauer" nach Ylanas Tod ein, entschuldigt sich, Tochter, [[Bartram]] und die kleine Byscilla über ein Jahr nicht besucht zu haben, und lädt zur Gedenkfeier an Ylanas Todestag ein — mit Familie, Freunden und Würdenträgern, Abendessen und Tanz. Auch [[Kryn]] ist eingeladen; Darius hofft auf eine Versöhnung seiner Kinder.
 
 > [!gap] Auf einem Balkon über der Bibliothek von Raventree findet die Gruppe einen beschädigten Teleportationskreis mit fester Zielverbindung. Ob Darius ihn selbst erschaffen hat, ist unbestätigt — siehe [[Teleportationskreis in Raventree erforschen]].
 

@@ -10,13 +10,13 @@ status: mature
 confidence: high
 key_claims:
   - "Darius unterschreibt mit vollem Namen 'Darius Corvinarus' — die Initialen 'D.C.' auf dem Brieföffner passen dazu."
-  - "Der Brief richtet sich an seine Tochter, deren Mann Betrand und deren kleine Tochter Byscilla."
+  - "Der Brief richtet sich an seine Tochter, deren Mann Bartram und deren kleine Tochter Byscilla."
   - "Darius lädt zum Jahrestag von Ylanas Tod Familie, Freunde und Würdenträger zu einem Fest mit Abendessen und Tanz ein — auch Kryn."
   - "Ylanas Tod wird als 'sinnlose Grausamkeit' beschrieben."
 related:
   - "[[Darius Danos]]"
   - "[[Elscieth]]"
-  - "[[Betrand]]"
+  - "[[Bartram]]"
   - "[[Byscilla Corvinarus-Danos]]"
   - "[[Kryn]]"
   - "[[Ylana]]"
@@ -30,7 +30,7 @@ Handschriftlicher Brief, gefunden auf einem Lesetisch in der Bibliothek von [[Ra
 
 ## Zusammenfassung
 
-[[Darius Danos|Darius]] – der hier mit **„Darius Corvinarus"** unterschreibt – schreibt an seine Tochter (sehr wahrscheinlich [[Elscieth]]). Er entschuldigt sich dafür, dass er sie, ihren Mann [[Betrand]] und die „kleine [[Byscilla Corvinarus-Danos|Byscilla]]" seit über einem Jahr nicht besucht hat. Seine Tochter hatte ihm zuvor geschrieben, wie sehr es sie schmerze, seinen „Abstieg in alles verzehrende Trauer" mitanzusehen; Darius räumt ein, dass ihn der Tod ihrer Mutter [[Ylana]] härter getroffen hat als alle anderen.
+[[Darius Danos|Darius]] – der hier mit **„Darius Corvinarus"** unterschreibt – schreibt an seine Tochter (sehr wahrscheinlich [[Elscieth]]). Er entschuldigt sich dafür, dass er sie, ihren Mann [[Bartram]] und die „kleine [[Byscilla Corvinarus-Danos|Byscilla]]" seit über einem Jahr nicht besucht hat. Seine Tochter hatte ihm zuvor geschrieben, wie sehr es sie schmerze, seinen „Abstieg in alles verzehrende Trauer" mitanzusehen; Darius räumt ein, dass ihn der Tod ihrer Mutter [[Ylana]] härter getroffen hat als alle anderen.
 
 Zum nahenden Jahrestag von Ylanas Tod will er die Familie, Ylanas Freunde und die Würdenträger, die sie kannten, versammeln, um ihr Leben zu feiern – mit Abendessen, Tanz und allem, was sie im Leben liebte – statt der „sinnlosen Grausamkeit", die sie ihnen genommen hat. Er warnt seine Tochter, dass er auch ihren Bruder [[Kryn]] eingeladen hat, und hofft, dass sich die beiden versöhnen, wie Ylana es gewollt hätte. Falls sie nicht kommen und die „Grausamkeit ihres Bruders" nicht ertragen möchte, werde er das verstehen, bittet aber dennoch um Vergebung.
 
@@ -38,7 +38,7 @@ Zum nahenden Jahrestag von Ylanas Tod will er die Familie, Ylanas Freunde und di
 
 > My Beloved Daughter,
 >
-> I know that it has been some time since last we wrote, and even longer since we last visited. I recognize that the majority of blame for that inconsideration rests upon me. I am sorry that I have not made time to see you, Betrand or little Byscilla in the last year.
+> I know that it has been some time since last we wrote, and even longer since we last visited. I recognize that the majority of blame for that inconsideration rests upon me. I am sorry that I have not made time to see you, Bartram or little Byscilla in the last year.
 >
 > In your last letter you wrote that you were pained to "watch my descent into all-consuming grief" and I had no answer for you then. Please understand that while we all felt your mother's death keenly, none felt it as sharply as me. I had not the words to say as much then, and it is certainly no surprise to you now.
 >
@@ -57,7 +57,7 @@ Zum nahenden Jahrestag von Ylanas Tod will er die Familie, Ylanas Freunde und di
 ## Erkenntnisse
 
 - Das Fest der Katastrophennacht war genau diese Gedenkfeier zu Ylanas Todestag.
-- Elscieths Ehemann heißt Betrand; Byscilla ist ihre Tochter und damit Darius' Enkelin.
+- Elscieths Ehemann heißt Bartram; Byscilla ist ihre Tochter und damit Darius' Enkelin.
 - Das Zerwürfnis zwischen Elscieth und Kryn war ernst genug, dass Darius sie vor ihm warnen musste.
 
 > [!gap] Warum der Brief in Raventree liegt statt bei seiner Empfängerin – ob er nie abgeschickt wurde, ein Entwurf oder eine Abschrift ist – ist unklar.

@@ -43,7 +43,7 @@ Handel mit magischen Artefakten. Aktuell: das Erbe und die Geschäfte unter [[By
 - [[Darius Danos]] — Großvater, Aufbauer des Hauses, verschollen (unterschreibt als „Darius Corvinarus")
 - [[Ylana]] — Großmutter, verstorben vor der Katastrophe
 - [[Elscieth]] — Mutter, nicht magiebegabt
-- [[Betrand]] — Vater, Elscieths Ehemann
+- [[Bartram]] — Vater, Elscieths Ehemann
 - [[Kryn]] — Onkel, seit der Katastrophe verschwunden
 - [[Usk Umberdael]] — Butler, seit der Katastrophe verschwunden
 

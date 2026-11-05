@@ -33,7 +33,7 @@ Auftraggeberin der Gruppe. Erbte das Anwesen [[Raventree]], nachdem Gerichte nac
 ## Bekanntes
 
 - [[Kryn]] behauptete, nur ein magiebegabter Erbe dürfe erben — ihr Großvater [[Darius Danos|Darius]] hatte das nie so festgelegt.
-- Tochter von [[Elscieth]] und [[Betrand]], Enkelin von Darius — in Darius' Brief als „kleine Byscilla" erwähnt ([[Brief - Darius an seine Tochter]]).
+- Tochter von [[Elscieth]] und [[Bartram]], Enkelin von Darius — in Darius' Brief als „kleine Byscilla" erwähnt ([[Brief - Darius an seine Tochter]]).
 - Insight-Check der Gruppe: Sie wirkt nicht, als würde sie etwas verstecken.
 - Sie will das Anwesen Raventree wieder aufbauen, sobald es für sicher erklärt wurde.
 

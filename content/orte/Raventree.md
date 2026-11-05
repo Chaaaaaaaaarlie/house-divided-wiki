@@ -56,9 +56,9 @@ In [[Session 4 - 05.11.2026]] erkundet die Gruppe vom Balkon über der Vorhalle 
 - **Raum unterhalb der Suite:** Beim Blick über eine Schwelle stürzt [[Percival (Pryce)|Percival]] rund zwanzig Fuß tief in einen darunterliegenden Raum mit einer Treppe. Eine Tür hoch oben in dessen Wand führt in die Gästesuite – mit Kletterausrüstung erreichbar; ein Seil ist dort befestigt.
 - **Gästesuite:** eine große Zimmerflucht hinter der versperrten Balkontür. Zurückgelassene Kleidungsstücke und die Barrikade an der Tür deuten darauf hin, dass sich hier vor der Gruppe schon jemand aufgehalten hat.
   - **Badezimmer:** mit einem verrußten, offenbar absichtlich geschwärzten Spiegel, in dem sich kurz etwas Ungeklärtes zeigt. Die Gruppe hat ihn untersucht, aber nicht zerbrochen.
-  - **Ankleidezimmer:** neben dem Badezimmer; hier fand die Gruppe einen Smaragdanhänger mit einer Widmung an [[Elscieth]], offenbar von ihrem Ehemann.
-- **Verborgene Treppe:** Hinter einem Rahmen bzw. Schrank in der Suite führt eine geheime Treppe hinab in den Salon; dort ist der Zugang hinter einem großen Porträt von [[Darius Danos|Darius]] verborgen.
-- **Salon:** Aufenthaltsort eines Geistes, offenbar [[Perrius Anmatar]], mit dem die Gruppe gesprochen hat.
+  - **Ankleidezimmer:** neben dem Badezimmer; hier fand die Gruppe einen Smaragdanhänger mit einer Widmung an [[Elscieth]], ein Geschenk ihres Ehemanns [[Bartram]]; die Gruppe hat ihn mitgenommen.
+- **Verborgene Treppe:** Hinter einem Rahmen bzw. Schrank in der Suite führt eine geheime Treppe hinab in den Salon.
+- **Salon:** Aufenthaltsort eines maskierten Geistes, offenbar [[Perrius Anmatar]], der an einem Tisch sitzt, Tee trinkt und auf die Familie Corvinarus wartet; die Gruppe hat mit ihm gesprochen.
 - **Garderobe:** begehbarer Raum neben dem Salon voller Mäntel und Umhänge; die [[Verfluchte Mäntel (Raventree)|verfluchten Mäntel]] darin griffen die Gruppe an und wurden besiegt.
 
 Die Gruppe beschließt, keinesfalls im Anwesen zu übernachten, und schlägt auf dem Rückweg den zugewucherten Pfad nach Ferncombe teilweise frei.

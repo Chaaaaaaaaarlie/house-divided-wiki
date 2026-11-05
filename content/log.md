@@ -7,10 +7,14 @@ updated: 2026-11-05
 
 # Vorgangs-Protokoll
 
+## [2026-11-05] korrektur | Session 4
+
+- Bartram als Schenker des Smaragdanhängers festgehalten; die verborgene Treppe führt schlicht von der Suite hinab in den Salon (ohne Zugang hinter einem Bild); Perrius' Geist maskiert, Tee trinkend, wartet auf die Familie Corvinarus; Anhänger von der Gruppe mitgenommen. Betroffen: [[Session 4 - 05.11.2026]], [[Quelle - Session 4 - 05.11.2026]], [[Bartram]], [[Elscieth]], [[Perrius Anmatar]], [[Darius Danos]], [[Raventree]], [[Raventree-Anwesen untersuchen (Gefahren und Vermisste)]], `wiki/hot.md`.
+
 ## [2026-11-05] revision | Session 4 überarbeitet
 
 - [[Session 4 - 05.11.2026]] und [[Quelle - Session 4 - 05.11.2026]] ergänzt um Raumdetails aus Spieler-Notizen: Gästesuite hinter der versperrten Balkontür (Badezimmer mit Spiegel, Ankleidezimmer), verborgene Treppe zum Salon, Geist von Perrius Anmatar im Salon, Garderobe mit den verfluchten Mänteln, Smaragdanhänger mit Widmung an Elscieth.
-- Aktualisiert: [[Raventree]], [[Perrius Anmatar]], [[Elscieth]], [[Betrand]], [[Darius Danos]], [[Verfluchte Mäntel (Raventree)]], [[Percival (Pryce)]], [[Vellara]], [[Yasheira]], [[Der elegante Mann (Patron)]], [[Raventree-Anwesen untersuchen (Gefahren und Vermisste)]], [[Identität des Traum-Patrons klären]], [[Yasheiras Pakt mit dem Imp klären]], `wiki/hot.md`, `wiki/overview.md`, `wiki/index.md`, Ordner-Übersichten und `Willkommen.md`.
+- Aktualisiert: [[Raventree]], [[Perrius Anmatar]], [[Elscieth]], [[Bartram]], [[Darius Danos]], [[Verfluchte Mäntel (Raventree)]], [[Percival (Pryce)]], [[Vellara]], [[Yasheira]], [[Der elegante Mann (Patron)]], [[Raventree-Anwesen untersuchen (Gefahren und Vermisste)]], [[Identität des Traum-Patrons klären]], [[Yasheiras Pakt mit dem Imp klären]], `wiki/hot.md`, `wiki/overview.md`, `wiki/index.md`, Ordner-Übersichten und `Willkommen.md`.
 
 ## [2026-11-05] lint | Index-Reparatur nach Session 4
 
@@ -22,14 +26,14 @@ updated: 2026-11-05
 - Quelle: Sitzungsnotizen zur vierten Session; Quellenseite [[Quelle - Session 4 - 05.11.2026]].
 - Session-Seite erstellt: [[Session 4 - 05.11.2026]] — Erkundung des Obergeschosses von Raventree: gemiedene magische Dunkelheit im Nordwesten, Sturz durch morschen Boden, verrußter Spiegel, Kampf gegen verfluchte Mäntel, Spuren von Elscieth; Rückkehr nach Ferncombe.
 - Neue Seite: [[Verfluchte Mäntel (Raventree)]] (Kreatur).
-- Aktualisierte Seiten: [[Raventree]] (neuer Abschnitt Obergeschoss), [[Percival (Pryce)]], [[Vellara]], [[Yasheira]], [[Kaelen]], [[Elscieth]], [[Betrand]], [[Perrius Anmatar]] (Schreibweise bestätigt), [[Der elegante Mann (Patron)]], [[Raventree-Anwesen untersuchen (Gefahren und Vermisste)]], [[Identität des Traum-Patrons klären]], [[Yasheiras Pakt mit dem Imp klären]].
+- Aktualisierte Seiten: [[Raventree]] (neuer Abschnitt Obergeschoss), [[Percival (Pryce)]], [[Vellara]], [[Yasheira]], [[Kaelen]], [[Elscieth]], [[Bartram]], [[Perrius Anmatar]] (Schreibweise bestätigt), [[Der elegante Mann (Patron)]], [[Raventree-Anwesen untersuchen (Gefahren und Vermisste)]], [[Identität des Traum-Patrons klären]], [[Yasheiras Pakt mit dem Imp klären]].
 - `wiki/index.md`, `wiki/overview.md`, `wiki/hot.md`, `wiki/sessions/_index.md`, `wiki/quellen/_index.md`, `wiki/kreaturen/_index.md`, `wiki/orte/_index.md`, `wiki/figuren/_index.md`, `wiki/fäden/_index.md` und `Willkommen.md` entsprechend aktualisiert.
 - Kernaussage: Die Gruppe erkundet die privaten Räume im Obergeschoss von Raventree; der Spiegel gibt der Warnung des eleganten Mannes erstmals einen konkreten Bezugspunkt, und mit Elscieth tritt die Mutter der Auftraggeberin in den Fokus.
 
 ## [2026-10-15] ingest | Brief von Darius
 
 - Quelle: in Raventree gefundener Brief (Handout), abgelegt unter `.raw/handouts/`; Quellenseite [[Brief - Darius an seine Tochter]].
-- Neue Seite: [[Betrand]].
+- Neue Seite: [[Bartram]].
 - Aktualisiert: [[Session 3 - 15.10.2026]] (Brief korrekt als Brief **von** Darius an seine Tochter), [[Darius Danos]], [[Elscieth]], [[Kryn]], [[Byscilla Corvinarus-Danos]], [[Ylana]], [[Haus Corvinarus (Familie Danos)]], [[Raventree]], [[Quelle - Session 3 - 15.10.2026]], `wiki/hot.md`, `wiki/figuren/_index.md`, `wiki/quellen/_index.md`.
 - Kernaussage: Das Fest der Katastrophennacht war Darius' Gedenkfeier für Ylana, zu der er Elscieth und Kryn trotz ihres Zerwürfnisses gemeinsam eingeladen hatte.
 

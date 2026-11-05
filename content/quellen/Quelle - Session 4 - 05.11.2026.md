@@ -14,10 +14,10 @@ key_claims:
   - "Die letzte Tür auf dem Balkon über der Vorhalle ist von innen durch einen großen Gegenstand versperrt."
   - "Percival stürzt rund zwanzig Fuß in einen tiefer gelegenen Raum und erreicht von dort mit Kletterausrüstung die Gästesuite hinter der versperrten Tür."
   - "Im Badezimmer der Suite hängt ein verrußter Spiegel, in dem sich kurz etwas Ungeklärtes zeigt."
-  - "Eine verborgene Treppe verbindet die Suite mit dem Salon; ihr unterer Zugang liegt hinter einem Porträt von Darius."
-  - "Im Salon hält sich der Geist von Perrius Anmatar auf, dem letzten Gast im Gästebuch."
+  - "Eine verborgene Treppe verbindet die Suite mit dem Salon darunter."
+  - "Im Salon hält sich der maskierte Geist von Perrius Anmatar auf, dem letzten Gast im Gästebuch; er trinkt Tee und wartet auf die Familie Corvinarus."
   - "In der Garderobe neben dem Salon greifen verfluchte Mäntel an; einer umschlingt Yasheira."
-  - "Im Ankleidezimmer der Suite findet die Gruppe einen Smaragdanhänger mit einer Widmung an Elscieth, offenbar von ihrem Ehemann."
+  - "Im Ankleidezimmer der Suite findet die Gruppe einen Smaragdanhänger mit einer Widmung an Elscieth, ein Geschenk ihres Ehemanns Bartram, und nimmt ihn mit."
   - "Die Gruppe übernachtet nicht im Anwesen und kehrt nach Ferncombe zurück."
 related:
   - "[[Session 4 - 05.11.2026]]"
@@ -36,10 +36,10 @@ Sitzungsnotizen zur vierten Session, überwiegend aus der Perspektive von [[Perc
 - Percival stürzt beim Blick über eine Schwelle rund zwanzig Fuß tief, klettert danach mit Kletterausrüstung zu einer Tür weiter oben, die in die Suite hinter der versperrten Tür führt, und befestigt ein Seil für die Gruppe; anschließend sichert er mit seiner schweren Armbrust.
 - Vor einem verrußten Spiegel im Badezimmer der Suite wirkt [[Vellara]] Magie; Percival befragt das Spiegelbild und sieht kurz darauf etwas, das ihn erneut zur Waffe greifen lässt. Die Gruppe erwägt das Zerbrechen und befragt Yasheiras Vertrauten dazu.
 - Zurückgelassene Kleidung in der Suite, die versperrte Tür und der Ruß am Spiegel deuten auf frühere Besucher hin.
-- Hinter einem Rahmen bzw. Schrank in der Suite führt eine verborgene Treppe nach unten in einen Salon; dort ist der Zugang hinter einem Porträt von [[Darius Danos|Darius]] verborgen.
-- Im Salon spricht die Gruppe mit einem Geist, offenbar [[Perrius Anmatar]]; Percival begegnet ihm höflich und fragt ihn, welcher der Mäntel in der Garderobe ihm gehöre.
+- Hinter einem Rahmen bzw. Schrank in der Suite führt eine verborgene Treppe nach unten in einen Salon.
+- Im Salon sitzt ein maskierter Geist, offenbar [[Perrius Anmatar]], Tee trinkend an einem Tisch und wartet auf die Familie Corvinarus; die Gruppe spricht mit ihm, Percival begegnet ihm höflich und fragt ihn, welcher der Mäntel in der Garderobe ihm gehöre.
 - In der Garderobe neben dem Salon greifen [[Verfluchte Mäntel (Raventree)|verfluchte Mäntel]] an; Percival setzt Netz und Krummsäbel ein, Schläge gegen den Mantel um [[Yasheira]] treffen teilweise auch sie.
-- Im Ankleidezimmer neben dem Badezimmer findet die Gruppe einen Smaragdanhänger mit der Widmung „Für meine geliebte Elscieth – möge dich dies stets an mich erinnern", offenbar von Elscieths Ehemann ([[Betrand]], am Tisch auch Bartram genannt), ohne Namen oder Initiale.
+- Im Ankleidezimmer neben dem Badezimmer findet die Gruppe einen Smaragdanhänger mit der Widmung „Für meine geliebte Elscieth – möge dich dies stets an mich erinnern", ein Geschenk von Elscieths Ehemann [[Bartram]], wenn auch ohne Namen oder Initiale; die Gruppe nimmt den Anhänger mit.
 - Ein Identifizierungsritual wird auf Percivals verzauberten Dolch angewandt; vermutet wird Bezauberungsmagie.
 - Die Gruppe beschließt, nicht im Anwesen zu übernachten; auf dem Rückweg wird der Pfad teilweise freigeschlagen.
 - Perrius Anmatar war der letzte Gast im Gästebuch.

@@ -17,7 +17,7 @@ related:
   - "[[Kaelen]]"
   - "[[Yasheira]]"
   - "[[Elscieth]]"
-  - "[[Betrand]]"
+  - "[[Bartram]]"
   - "[[Kryn]]"
   - "[[Darius Danos]]"
   - "[[Perrius Anmatar]]"
@@ -64,11 +64,11 @@ In der Suite finden sich auch zurückgelassene Kleidungsstücke. Percival prüft
 
 ### Die verborgene Treppe
 
-Bei der weiteren Durchsuchung nimmt die Gruppe einen Rahmen in Augenschein, bei dem zunächst unklar ist, ob er einst ein Bild oder einen weiteren Spiegel hielt, sowie einen Schrank. Dabei stößt sie auf einen verborgenen Durchgang. Percival öffnet ihn, lässt Licht hineinfallen und ruft den anderen zu: Hier geht es nach unten. Eine geheime Treppe verbindet die Suite mit dem Stockwerk darunter. Am unteren Ende kommt die Gruppe in einem Salon heraus; der Zugang auf dieser Seite ist hinter einem großen Porträt von [[Darius Danos|Darius]] verborgen.
+Bei der weiteren Durchsuchung nimmt die Gruppe einen Rahmen in Augenschein, bei dem zunächst unklar ist, ob er einst ein Bild oder einen weiteren Spiegel hielt, sowie einen Schrank. Dabei stößt sie auf einen verborgenen Durchgang. Percival öffnet ihn, lässt Licht hineinfallen und ruft den anderen zu: Hier geht es nach unten. Eine geheime Treppe verbindet die Suite mit dem Stockwerk darunter. Am unteren Ende kommt die Gruppe in einem Salon heraus.
 
 ### Der Geist im Salon
 
-Im Salon ist die Gruppe nicht allein: Dort hält sich ein Geist auf, mit dem sie ins Gespräch kommt und dem Percival mit ausgesuchter Höflichkeit begegnet. Nach allem, was die Gruppe zusammenträgt, handelt es sich um [[Perrius Anmatar]] – jenen Gast, dessen Name als letzter lesbarer Eintrag im Gästebuch der Vorhalle steht.
+Im Salon ist die Gruppe nicht allein: Ein maskierter Geist sitzt dort an einem Tisch und trinkt Tee – er wartet, wie sich zeigt, auf die Familie Corvinarus. Die Gruppe kommt mit ihm ins Gespräch, und Percival begegnet ihm mit ausgesuchter Höflichkeit. Nach allem, was die Gruppe zusammenträgt, handelt es sich um [[Perrius Anmatar]] – jenen Gast, dessen Name als letzter lesbarer Eintrag im Gästebuch der Vorhalle steht.
 
 ### Die Garderobe und die verfluchten Mäntel
 
@@ -84,7 +84,7 @@ Percival erinnert sich, dass oben in der Suite neben dem Badezimmer noch ein wei
 
 Dabei kommt ein Smaragdanhänger zum Vorschein, in den eine Widmung graviert ist: „Für meine geliebte Elscieth – möge dich dies stets an mich erinnern." Percival schlägt in seinen Notizen nach, was die Gruppe über [[Elscieth]] weiß: das ältere der beiden Kinder von Darius und [[Ylana]], nicht magiebegabt, früh in die Stadt gezogen und trotz ihres Zerwürfnisses mit ihrem Bruder [[Kryn]] – einem Streit um das Erbe und um Kryns Frau – in der Katastrophennacht zu Gast auf Raventree. Es ist also allem Anschein nach ein Erinnerungsstück der Mutter der Auftraggeberin [[Byscilla Corvinarus-Danos|Byscilla]].
 
-Wer ihr den Anhänger geschenkt hat, sorgt für eine kleine Debatte: Percival hält auch einen heimlichen Liebhaber für denkbar, doch die Gruppe kommt zu dem Schluss, dass er von Elscieths Ehemann stammt. Einen Namen oder eine Initiale trägt die Gravur allerdings nicht – ein „B" für den Ehemann, den die Gruppe als Bartram kennt ([[Betrand]]), sucht Percival vergeblich.
+Wer ihr den Anhänger geschenkt hat, sorgt für eine kleine Debatte: Percival hält auch einen heimlichen Liebhaber für denkbar, doch die Gruppe kommt zu dem Schluss, dass er von Elscieths Ehemann stammt. Einen Namen oder eine Initiale trägt die Gravur zwar nicht – ein „B" sucht Percival vergeblich –, doch die Gruppe erkennt den Anhänger als Geschenk von Elscieths Ehemann [[Bartram]]. Sie nimmt das Schmuckstück an sich.
 
 ### Rast, Identifikation und Rückweg
 
@@ -100,18 +100,18 @@ Beim Abendessen fällt Percival beim Durchsehen seiner Notizen noch etwas auf: P
 
 - Eine wabernde, magische Dunkelheit im Nordwesten des Anwesens (gemieden)
 - Ein unheimlicher, verrußter Spiegel im Badezimmer der Gästesuite
-- Der Geist von [[Perrius Anmatar]] im Salon
+- Der maskierte Geist von [[Perrius Anmatar]] im Salon, der beim Tee auf die Familie Corvinarus wartet
 - [[Verfluchte Mäntel (Raventree)|Verfluchte Mäntel]] in der Garderobe neben dem Salon, die Yasheira umschlingen
 - Yasheiras kleiner Vertrauter, der zum Spiegel befragt wird
 
 ## Neue Hinweise
 
 - Im Nordwesten von [[Raventree]] liegt eine magische Dunkelheit; die Gruppe hat diesen Bereich bislang gemieden.
-- Die letzte Tür auf dem Balkon über der Vorhalle führt in eine große Gästesuite und ist von innen versperrt; die Suite ist von unten mit Kletterausrüstung erreichbar und über eine verborgene Treppe mit dem Salon verbunden, deren unterer Zugang hinter einem Porträt von [[Darius Danos|Darius]] liegt.
+- Die letzte Tür auf dem Balkon über der Vorhalle führt in eine große Gästesuite und ist von innen versperrt; die Suite ist von unten mit Kletterausrüstung erreichbar und über eine verborgene Treppe mit dem Salon darunter verbunden.
 - Versperrte Tür, zurückgelassene Kleidung und der verrußte Spiegel deuten darauf hin, dass sich vor der Gruppe schon jemand in der Suite aufgehalten hat.
 - Der Spiegel im Badezimmer ist verrußt, offenbar absichtlich; kurz zeigt sich darin etwas Ungeklärtes – ein möglicher Bezug zur Warnung des [[Der elegante Mann (Patron)|eleganten Mannes]] vor Spiegeln.
-- Im Salon hält sich der Geist von [[Perrius Anmatar]] auf, dem letzten Gast im Gästebuch.
-- Im Ankleidezimmer der Suite liegt ein Smaragdanhänger mit der Widmung „Für meine geliebte Elscieth – möge dich dies stets an mich erinnern", offenbar ein Geschenk ihres Ehemanns – ohne Namen oder Initiale.
+- Im Salon hält sich der Geist von [[Perrius Anmatar]] auf, dem letzten Gast im Gästebuch: maskiert, Tee trinkend an einem Tisch, wartend auf die Familie Corvinarus.
+- Im Ankleidezimmer der Suite liegt ein Smaragdanhänger mit der Widmung „Für meine geliebte Elscieth – möge dich dies stets an mich erinnern", ein Geschenk ihres Ehemanns [[Bartram]] (ohne Namen oder Initiale). Die Gruppe hat den Anhänger mitgenommen.
 
 ## Offene Fragen
 
@@ -120,7 +120,7 @@ Beim Abendessen fällt Percival beim Durchsehen seiner Notizen noch etwas auf: P
 - Wer hat sich vor der Gruppe in der Suite verbarrikadiert, und was ist aus ihnen geworden?
 - Was weiß der Geist von Perrius Anmatar über die Katastrophennacht?
 - Warum wurden Mäntel verflucht – und von wem?
-- Stammt der Anhänger wirklich von [[Betrand]]?
+- Wie kam Elscieths Anhänger in die Gästesuite – und was wurde aus [[Bartram]]?
 - Weiterhin offen: der Teleportationskreis, Darius' Testament und das Schicksal von [[Usk Umberdael|Usk]] und [[Kryn]].
 
 ## Verknüpfungen

@@ -1,6 +1,6 @@
 ---
 type: entity
-title: "Betrand"
+title: "Bartram"
 created: 2026-10-15
 updated: 2026-11-05
 tags:
@@ -19,7 +19,7 @@ sources:
   - "[[Session 4 - 05.11.2026]]"
 ---
 
-# Betrand
+# Bartram
 
 ## Beschreibung
 
@@ -29,14 +29,13 @@ Ehemann von [[Elscieth]] und Vater von [[Byscilla Corvinarus-Danos|Byscilla]]. B
 
 Wurde von Darius indirekt zur Gedenkfeier für [[Ylana]] eingeladen – jenem Fest, das zur Katastrophennacht auf [[Raventree]] wurde.
 
-In [[Session 4 - 05.11.2026]] findet die Gruppe im Ankleidezimmer der Gästesuite auf [[Raventree]] einen Smaragdanhänger mit der Gravur „Für meine geliebte Elscieth – möge dich dies stets an mich erinnern", offenbar ein Geschenk ihres Ehemanns. Ein „B" oder ein Name steht jedoch nicht darauf, sodass Betrand als Schenker nicht ausdrücklich bestätigt ist.
+In [[Session 4 - 05.11.2026]] findet die Gruppe im Ankleidezimmer der Gästesuite auf [[Raventree]] einen Smaragdanhänger mit der Gravur „Für meine geliebte Elscieth – möge dich dies stets an mich erinnern", ein Geschenk von Bartram an seine Frau. Ein „B" oder ein Name steht zwar nicht darauf, doch die Gruppe erkennt ihn als sein Geschenk und nimmt ihn mit.
 
 ## Bekanntes
 
-- Am Spieltisch wird der Name auch als **Bartram** gehört; die Schreibweise „Betrand" stammt aus Darius' Brief.
-- Der in [[Session 4 - 05.11.2026]] gefundene Smaragdanhänger für [[Elscieth]] trägt weder seinen Namen noch eine Initiale.
+- Schenkte [[Elscieth]] den in [[Session 4 - 05.11.2026]] gefundenen Smaragdanhänger; der Anhänger selbst trägt weder seinen Namen noch eine Initiale.
 
-> [!gap] Ob Betrand an dem Fest teilnahm und was aus ihm wurde, ist unbekannt.
+> [!gap] Ob Bartram an dem Fest teilnahm und was aus ihm wurde, ist unbekannt.
 
 ## Verknüpfungen
 

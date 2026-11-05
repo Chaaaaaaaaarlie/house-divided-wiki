@@ -28,7 +28,7 @@ updated: 2026-11-05
 - [[Orvinder Danos]] — ihr Mann
 - [[Darius Danos]] — Großvater, verschollener Magier
 - [[Ylana]] — Großmutter, verstorben
-- [[Betrand]] — Ehemann von Elscieth, Vater von Byscilla
+- [[Bartram]] — Ehemann von Elscieth, Vater von Byscilla
 - [[Elscieth]] — Mutter, nicht magiebegabt; Smaragdanhänger mit Widmung an sie in Raventree gefunden (Session 4)
 - [[Kryn]] — Onkel, seit der Katastrophe verschwunden
 - [[Usk Umberdael]] — Butler, seit der Katastrophe verschwunden

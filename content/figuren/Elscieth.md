@@ -14,7 +14,7 @@ related:
   - "[[Ylana]]"
   - "[[Kryn]]"
   - "[[Byscilla Corvinarus-Danos]]"
-  - "[[Betrand]]"
+  - "[[Bartram]]"
   - "[[Raventree]]"
 sources:
   - "[[Session 1 - 17.09.2026]]"
@@ -35,11 +35,11 @@ War trotz Zerwürfnisses mit ihrem Bruder [[Kryn]] in der Katastrophennacht zu G
 ## Bekanntes
 
 - Streit mit Kryn drehte sich um das Erbe und "die Frau von Kryn".
-- Mutter von [[Byscilla Corvinarus-Danos|Byscilla]], verheiratet mit [[Betrand]] — bestätigt durch Darius' Brief an seine Tochter ([[Brief - Darius an seine Tochter]]).
+- Mutter von [[Byscilla Corvinarus-Danos|Byscilla]], verheiratet mit [[Bartram]] — bestätigt durch Darius' Brief an seine Tochter ([[Brief - Darius an seine Tochter]]).
 - Hatte ihrem Vater geschrieben, wie sehr es sie schmerze, seinen „Abstieg in alles verzehrende Trauer" mitanzusehen.
 - Darius warnte sie vor der „Grausamkeit ihres Bruders" Kryn, lud sie aber trotzdem zur Gedenkfeier ein, in der Hoffnung auf Versöhnung.
 
-- In [[Session 4 - 05.11.2026]] findet die Gruppe im Ankleidezimmer der Gästesuite von [[Raventree]] einen Smaragdanhänger mit der Gravur „Für meine geliebte Elscieth – möge dich dies stets an mich erinnern". Die Gruppe hält ihn für ein Geschenk ihres Ehemanns [[Betrand]]; ein Name oder eine Initiale steht jedoch nicht darauf (Quelle: [[Session 4 - 05.11.2026]]).
+- In [[Session 4 - 05.11.2026]] findet die Gruppe im Ankleidezimmer der Gästesuite von [[Raventree]] einen Smaragdanhänger mit der Gravur „Für meine geliebte Elscieth – möge dich dies stets an mich erinnern". Die Gruppe erkennt ihn als Geschenk ihres Ehemanns [[Bartram]], auch wenn kein Name und keine Initiale darauf steht, und nimmt den Anhänger mit (Quelle: [[Session 4 - 05.11.2026]]).
 
 > [!gap] Ob Elscieth die Katastrophennacht überlebt hat, ist unbekannt.
 
