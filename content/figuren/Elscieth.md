@@ -39,7 +39,7 @@ War trotz Zerwürfnisses mit ihrem Bruder [[Kryn]] in der Katastrophennacht zu G
 - Hatte ihrem Vater geschrieben, wie sehr es sie schmerze, seinen „Abstieg in alles verzehrende Trauer" mitanzusehen.
 - Darius warnte sie vor der „Grausamkeit ihres Bruders" Kryn, lud sie aber trotzdem zur Gedenkfeier ein, in der Hoffnung auf Versöhnung.
 
-- In [[Session 4 - 05.11.2026]] findet die Gruppe in einem Zimmer im Obergeschoss von [[Raventree]] allem Anschein nach Spuren von ihr, darunter einen Gegenstand mit einer persönlichen Widmung, offenbar von ihrem Ehemann – jedoch ohne Namen oder Initiale (Quelle: [[Session 4 - 05.11.2026]]).
+- In [[Session 4 - 05.11.2026]] findet die Gruppe im Ankleidezimmer der Gästesuite von [[Raventree]] einen Smaragdanhänger mit der Gravur „Für meine geliebte Elscieth – möge dich dies stets an mich erinnern". Die Gruppe hält ihn für ein Geschenk ihres Ehemanns [[Betrand]]; ein Name oder eine Initiale steht jedoch nicht darauf (Quelle: [[Session 4 - 05.11.2026]]).
 
 > [!gap] Ob Elscieth die Katastrophennacht überlebt hat, ist unbekannt.
 

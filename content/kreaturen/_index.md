@@ -10,7 +10,7 @@ tags:
 # Kreaturen-Übersicht
 
 - [[Bücherschwarm (Raventree)]] — animierte Bücher in der Bibliothek von Raventree
-- [[Verfluchte Mäntel (Raventree)]] — verfluchte Mäntel im Kleiderschrank des Obergeschosses von Raventree
+- [[Verfluchte Mäntel (Raventree)]] — verfluchte Mäntel in der Garderobe neben dem Salon von Raventree
 
 ## Verknüpfungen
 

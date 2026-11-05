@@ -23,13 +23,18 @@ sources:
 
 ## Beschreibung
 
-Ehemann von [[Elscieth]] und Vater von [[Byscilla Corvinarus-Danos|Byscilla]]. Bisher nur aus dem Brief bekannt, den [[Darius Danos|Darius]] an seine Tochter schrieb.
+Ehemann von [[Elscieth]] und Vater von [[Byscilla Corvinarus-Danos|Byscilla]]. Bisher vor allem aus dem Brief bekannt, den [[Darius Danos|Darius]] an seine Tochter schrieb.
 
 ## Rolle in der Kampagne
 
 Wurde von Darius indirekt zur Gedenkfeier für [[Ylana]] eingeladen – jenem Fest, das zur Katastrophennacht auf [[Raventree]] wurde.
 
-In [[Session 4 - 05.11.2026]] findet die Gruppe bei Elscieths Sachen auf [[Raventree]] einen Gegenstand mit einer Widmung, offenbar von ihrem Ehemann; ein „B" oder ein Name steht jedoch nicht darauf, sodass Betrand als Absender nicht bestätigt ist.
+In [[Session 4 - 05.11.2026]] findet die Gruppe im Ankleidezimmer der Gästesuite auf [[Raventree]] einen Smaragdanhänger mit der Gravur „Für meine geliebte Elscieth – möge dich dies stets an mich erinnern", offenbar ein Geschenk ihres Ehemanns. Ein „B" oder ein Name steht jedoch nicht darauf, sodass Betrand als Schenker nicht ausdrücklich bestätigt ist.
+
+## Bekanntes
+
+- Am Spieltisch wird der Name auch als **Bartram** gehört; die Schreibweise „Betrand" stammt aus Darius' Brief.
+- Der in [[Session 4 - 05.11.2026]] gefundene Smaragdanhänger für [[Elscieth]] trägt weder seinen Namen noch eine Initiale.
 
 > [!gap] Ob Betrand an dem Fest teilnahm und was aus ihm wurde, ist unbekannt.
 

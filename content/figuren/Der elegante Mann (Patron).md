@@ -31,7 +31,7 @@ Bittet darum, das Arbeitszimmer eines mächtigen Magiers (vermutlich [[Darius Da
 
 ## Bekanntes
 
-- In [[Session 4 - 05.11.2026]] stößt die Gruppe in den oberen Räumen von [[Raventree]] auf einen verrußten, unheimlichen Spiegel – möglicherweise ein Bezug zu seiner Warnung. Siehe [[Identität des Traum-Patrons klären]].
+- In [[Session 4 - 05.11.2026]] stößt die Gruppe im Badezimmer der Gästesuite von [[Raventree]] auf einen verrußten, unheimlichen Spiegel, in dem sich kurz etwas Ungeklärtes zeigt – möglicherweise ein Bezug zu seiner Warnung. Siehe [[Identität des Traum-Patrons klären]].
 
 ## Verknüpfungen
 

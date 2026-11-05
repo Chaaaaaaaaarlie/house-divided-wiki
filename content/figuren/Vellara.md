@@ -31,7 +31,7 @@ Wirkte *Protection from Evil and Good* plus Weihwasser auf [[Noven Karlin]], um 
 
 In [[Session 3 - 15.10.2026]] setzt sie in der Bibliothek von Raventree wiederholt Radiant-Zauber gegen die dortigen Bücherschwärme ein und identifiziert über ihre Verbindung zum Wissen den beschädigten Teleportationskreis auf dem Balkon darüber als fest mit einem einzigen Zielort verbunden (siehe [[Teleportationskreis in Raventree erforschen]]). Yasheiras Vertrauter deutet ihr gegenüber eine unbeglichene Schuld an — siehe [[Yasheiras Pakt mit dem Imp klären]].
 
-In [[Session 4 - 05.11.2026]] wirkt sie in Raventree Magie vor einem verrußten Spiegel, während [[Percival (Pryce)|Percival]] hinter ihr Wache hält, und unterstützt ihn bei der Durchsuchung des Zimmers, in dem sich Spuren von [[Elscieth]] finden.
+In [[Session 4 - 05.11.2026]] wirkt sie in Raventree Magie vor einem verrußten Spiegel, während [[Percival (Pryce)|Percival]] hinter ihr Wache hält, und unterstützt ihn bei der Durchsuchung des Ankleidezimmers, in dem ein Smaragdanhänger mit einer Widmung an [[Elscieth]] zum Vorschein kommt.
 
 ## Bekanntes
 

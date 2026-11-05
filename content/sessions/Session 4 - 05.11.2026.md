@@ -19,6 +19,7 @@ related:
   - "[[Elscieth]]"
   - "[[Betrand]]"
   - "[[Kryn]]"
+  - "[[Darius Danos]]"
   - "[[Perrius Anmatar]]"
   - "[[Raventree]]"
   - "[[Verfluchte Mäntel (Raventree)]]"
@@ -33,80 +34,93 @@ sources:
 
 ## Zusammenfassung
 
-Die Gruppe setzt die Erkundung von [[Raventree]] fort und dringt in die oberen Räume des Anwesens vor. Eine wabernde, offenbar magische Dunkelheit im Nordwesten des Hauses meidet sie vorerst. Eine von innen blockierte Tür, ein tückischer Sturz in die Tiefe und ein mühsamer Aufstieg mit Kletterausrüstung führen schließlich in eine Reihe privater Räume: einen Raum mit einem unheimlichen Spiegel, einen begehbaren Kleiderschrank, in dem verfluchte Mäntel die Gruppe angreifen, und ein Zimmer, dessen Funde allem Anschein nach auf [[Elscieth]] – die Mutter der Auftraggeberin – verweisen. Erschöpft beschließt die Gruppe, keinesfalls im Anwesen zu übernachten, und kehrt nach Ferncombe zurück.
+Vom Balkon über der Vorhalle aus setzt die Gruppe die Erkundung von [[Raventree]] fort. Eine wabernde, magische Dunkelheit im Nordwesten meidet sie, und die letzte ungeöffnete Tür auf dem Balkon erweist sich als von innen versperrt. Erst ein unfreiwilliger Sturz in einen tiefer gelegenen Raum und ein Aufstieg mit Kletterausrüstung führen die Gruppe von unten in eine große Gästesuite – genau den Bereich hinter der versperrten Tür. Dort stößt sie auf einen verrußten, unheimlichen Spiegel im Badezimmer und auf eine verborgene Treppe, die hinab in einen Salon führt. Im Salon begegnet die Gruppe einem höflichen Geist, in der angrenzenden Garderobe greifen verfluchte Mäntel an. Zurück in der Suite findet sie im Ankleidezimmer einen Smaragdanhänger mit einer Widmung an [[Elscieth]], die Mutter der Auftraggeberin. Die Nacht verbringt die Gruppe bewusst nicht im Anwesen, sondern wieder in Ferncombe.
 
 ## Was passiert ist
 
-### Die Dunkelheit im Nordwesten
+### Auf dem Balkon über der Vorhalle
 
-Gleich zu Beginn fällt der Gruppe in einer Richtung – nach Nordwesten – eine auffällige Finsternis auf. Es ist keine gewöhnliche Dunkelheit: Sie wabert, und [[Percival (Pryce)|Percival]] hält sie deshalb für magischer Natur. Was aus dieser Richtung zu hören ist, überzeugt die Gruppe endgültig: Sie schlägt einen anderen Weg ein. Auch ein Blick durch ein Fenster auf einen Balkon hinaus verspricht nichts, was das Öffnen der dortigen Tür lohnen würde.
+Die Gruppe nimmt den Faden dort auf, wo sie zuletzt aufgehört hat: auf dem Balkon über der Vorhalle. In Richtung Nordwesten liegt eine auffällige Finsternis – keine gewöhnliche Dunkelheit, denn sie wabert, und [[Percival (Pryce)|Percival]] hält sie deshalb für magischer Natur. Was aus dieser Richtung zu hören ist, überzeugt die Gruppe endgültig, einen anderen Weg einzuschlagen. Auch ein Blick durch ein Fenster auf einen Balkon draußen verspricht nichts, was das Öffnen der dortigen Tür lohnen würde.
 
-### Die blockierte Tür und der Sturz
+### Die versperrte Tür
 
-Vor einer verschlossenen Tür holt Percival seine Dietriche hervor und untersucht sie zunächst gründlich auf Fallen. Bald wird klar, dass das Schloss nicht das eigentliche Problem ist: Auf der anderen Seite scheint ein großer, schwerer Gegenstand zu stehen, der die Tür versperrt. Percival versucht, sie mit seiner Goliath-Kraft aufzudrücken, scheitert aber. Auch die Idee, die Tür einfach aus den Angeln zu heben – die Scharniere liegen auf der Seite der Gruppe –, erweist sich als nicht praktikabel.
+Also wendet sich die Gruppe der letzten noch ungeöffneten Tür auf dem Balkon zu. Percival holt seine Dietriche hervor und untersucht sie zunächst gründlich auf Fallen. Bald wird klar, dass das Schloss gar nicht das Problem ist: Auf der anderen Seite steht offenbar ein großer, schwerer Gegenstand, der die Tür von innen blockiert. Percival versucht, sie mit seiner Goliath-Kraft aufzudrücken, scheitert aber. Auch die Idee, die Tür einfach aus den Angeln zu heben – die Scharniere liegen auf der Seite der Gruppe –, erweist sich als nicht praktikabel. Jemand scheint sich dort drinnen einst verbarrikadiert zu haben.
 
-An anderer Stelle will Percival nur kurz über eine Schwelle in einen Raum hineinschauen, ohne ihn wirklich zu betreten – doch der Boden trägt ihn nicht. Er stürzt in die Tiefe und landet verletzt auf dem Boden eines darunterliegenden Raums. Der Sturz geht über rund zwanzig Fuß; Percival rappelt sich auf, setzt sich auf eine Treppe und kommt wieder zu Atem. Mit Fackel und Lichtzauber der übrigen Gruppe kann er sich dort unten schließlich umsehen.
+### Der Sturz und der Aufstieg
 
-### Der Aufstieg mit Kletterausrüstung
+Während die anderen noch beschäftigt sind, will Percival nur kurz über eine Schwelle in einen Raum hineinschauen, ohne ihn wirklich zu betreten – doch dort, wo er Halt erwartet, ist keiner. Er stürzt rund zwanzig Fuß in die Tiefe und landet verletzt auf dem Boden eines darunterliegenden Raums. Percival rappelt sich auf, setzt sich auf eine Treppe und kommt wieder zu Atem; mit der Fackel des Paladins und einem Lichtzauber der Gruppe kann er sich dort unten schließlich umsehen.
 
-Von unten aus entdeckt Percival eine Tür weiter oben in der Wand – genau jene Richtung, in die die Gruppe ohnehin wollte. Mit seiner Kletterausrüstung steigt er hinauf, späht zunächst durch den Spalt unter der Tür, um zu erkennen, was dahinter liegt, und öffnet sie dann. Oben befestigt er ein Seil an einer sicheren Stelle und wirft es hinunter, damit die anderen nachkommen können. Im Licht zeigt sich, dass der Boden dort oben begehbar ist. Percival bezieht mit seiner schweren Armbrust Stellung und sichert die Umgebung, bereit, auf alles Feindselige zu schießen.
+Von unten aus entdeckt er eine Tür weiter oben in der Wand – und stellt fest, dass sie genau in jenen Bereich führen muss, in den die Gruppe durch die versperrte Tür hineinwollte. Mit seiner Kletterausrüstung steigt er hinauf, späht zunächst durch den Spalt unter der Tür, ob sich dahinter im Licht der Fenster etwas abzeichnet, und öffnet sie dann. Oben befestigt er ein Seil an einer sicheren Stelle und wirft es hinunter, damit die anderen nachkommen können. Im Licht zeigt sich, dass der Boden dort oben begehbar ist. Percival bezieht mit seiner schweren Armbrust Stellung und sichert die Umgebung, bereit, auf alles Feindselige zu schießen.
 
-### Der Spiegel
+### Die Gästesuite und der Spiegel im Badezimmer
 
-In einem der oberen Räume stößt die Gruppe auf einen Spiegel. [[Vellara]] wirkt davor ihre Magie; Percival, der davon nur die Hälfte versteht, stellt sich hinter sie, legt ihr die rechte Hand auf die Schulter und blickt selbst hinein – er sieht zunächst genau dasselbe wie sie. Die Klinge griffbereit, für den Fall, dass etwas aus dem Spiegel herauskommen sollte, sucht er nach allem, was in der Spiegelung nicht so ist, wie es sein sollte, und fragt das Spiegelbild schließlich direkt: „Wer bist du?" Als nichts Ungewöhnliches geschieht, steckt er sein Schwert wieder weg – nur um es kurz darauf erneut zu ziehen, als sich doch etwas zeigt.
+Die Gruppe befindet sich nun in einer großen Gästesuite – den Räumen hinter der versperrten Balkontür. Im Badezimmer stößt sie auf einen Spiegel, der sofort Misstrauen weckt. Percival fragt, ob das wieder mit der Magie der anderen zu tun habe und ob [[Vellara]]s Zauber auch Flüche erkennen könne. Er deutet eine leichte Verbeugung an und fragt, was man von ihm erwarte.
 
-Die Gruppe erwägt, den Spiegel zu zerbrechen; Percival erinnert Vellara halb im Scherz daran, dass das Pech bringen soll. Auch die Frage, ob Vellaras Zauber Flüche erkennen könne, steht im Raum. Ein Gruppenmitglied bemerkt, dass der Spiegel verrußt ist – Percival vermutet, dass jemand ihn absichtlich mit etwas Verbranntem geschwärzt haben könnte. Er wendet sich an [[Kaelen]] und an Yasheiras kleinen Vertrauten und fragt Letzteren höflich, was wohl geschehen wäre, hätte die Gruppe den Spiegel zerstört. Die Warnung des [[Der elegante Mann (Patron)|eleganten Mannes]] – „Lass dich nicht von den Spiegeln beißen" – bekommt damit erstmals einen greifbaren Bezugspunkt.
+Vellara wirkt ihre Magie vor dem Spiegel. Percival, der davon nur die Hälfte versteht, stellt sich hinter sie, legt ihr die rechte Hand auf die Schulter und blickt selbst hinein – er sieht zunächst genau dasselbe wie sie. Die Klinge griffbereit, für den Fall, dass etwas aus dem Spiegel herauskommen sollte, sucht er nach allem, was in der Spiegelung nicht so ist, wie es sein sollte, und fragt das Spiegelbild schließlich direkt: „Wer bist du?" Eine Antwort bleibt aus, alles scheint normal, und er steckt sein Schwert wieder weg – nur um es kurz darauf erneut zu ziehen, als sich im Spiegel doch etwas zeigt, das dort nicht hingehört. Was genau es war, lässt sich nicht greifen; zurück bleibt das Gefühl einer unheimlichen, ungeklärten Gegenwart.
 
-Im selben Raum finden sich auch Kleidungsstücke. Percival prüft, ob sich an ihrer Größe etwas über ihren einstigen Besitzer ablesen lässt, und spielt mit dem Gedanken, sie könnten zu dem verängstigten Mann aus dem Dorf passen – ein Einfall, der sich nicht weiter erhärtet. Neben dem Spiegel untersucht die Gruppe einen Rahmen, bei dem zunächst unklar ist, ob er einst ein Bild oder einen weiteren Spiegel hielt, sowie einen Schrank. Hinter einer Tür entdeckt Percival im Licht einen Weg, der nach unten führt, und teilt die Entdeckung sofort mit den anderen.
+Die Gruppe erwägt, den Spiegel zu zerbrechen; Percival erinnert Vellara halb im Scherz daran, dass das Pech bringen soll. Auffällig ist, dass der Spiegel verrußt ist. Percival vergewissert sich bei [[Kaelen]] und vermutet, dass jemand ihn absichtlich mit etwas Verbranntem geschwärzt haben könnte. Schließlich wendet er sich an Yasheiras kleinen Vertrauten und fragt ihn ausgesucht höflich, was wohl geschehen wäre, hätte die Gruppe den Spiegel zerstört. Die Warnung des [[Der elegante Mann (Patron)|eleganten Mannes]] – „Lass dich nicht von den Spiegeln beißen" – bekommt damit erstmals einen greifbaren Bezugspunkt.
 
-### Der begehbare Kleiderschrank und die verfluchten Mäntel
+In der Suite finden sich auch zurückgelassene Kleidungsstücke. Percival prüft, ob sich an ihrer Größe etwas über ihren Besitzer ablesen lässt, und spielt mit dem Gedanken, sie könnten zu dem verängstigten Mann aus dem Dorf passen – ein Einfall, der sich nicht weiter erhärtet. Zusammen mit der von innen versperrten Tür und dem verrußten Spiegel drängt sich der Eindruck auf, dass sich vor der Gruppe schon jemand in diesen Räumen aufgehalten hat.
 
-Percival schaut sich weiter um und stößt auf einen begehbaren Kleiderschrank. Dort wendet er sich an einen Geist und fragt, welches der Kleidungsstücke ihm gehöre; ein Name – Oskar – fällt in diesem Zusammenhang, ohne dass klar wird, wer damit gemeint ist. Percival betritt den Raum vorsichtig, ohne etwas anzufassen.
+### Die verborgene Treppe
 
-Kurz darauf entbrennt ein Kampf: Mehrere Mäntel und Umhänge erwachen zu bösartigem Leben – die [[Verfluchte Mäntel (Raventree)|verfluchten Mäntel]]. Percival versucht zunächst, eines der Wesen mit seinem Netz einzufangen, und zieht sich danach geschickt zurück. Später greift er mit seinem Krummsäbel an, nutzt die Ablenkung durch einen Gefährten für einen hinterhältigen Treffer und wirft erneut sein Netz. Als sich einer der Mäntel um [[Yasheira]] legt, stürmt Percival heran und versucht, ihn von ihr wegzureißen – vergeblich, und seine Schläge gegen den Mantel treffen teilweise auch Yasheira selbst. Mit vereinten Kräften besiegt die Gruppe die Mäntel schließlich.
+Bei der weiteren Durchsuchung nimmt die Gruppe einen Rahmen in Augenschein, bei dem zunächst unklar ist, ob er einst ein Bild oder einen weiteren Spiegel hielt, sowie einen Schrank. Dabei stößt sie auf einen verborgenen Durchgang. Percival öffnet ihn, lässt Licht hineinfallen und ruft den anderen zu: Hier geht es nach unten. Eine geheime Treppe verbindet die Suite mit dem Stockwerk darunter. Am unteren Ende kommt die Gruppe in einem Salon heraus; der Zugang auf dieser Seite ist hinter einem großen Porträt von [[Darius Danos|Darius]] verborgen.
 
-Anschließend durchsucht Percival die Überreste der Umhänge nach Gegenständen in ihren Taschen, bevor er den Raum verlässt. Gegenüber Vellara, der Magie stets eher ihr Metier war, äußert er Unverständnis darüber, warum jemand Mäntel überhaupt auf diese Weise verfluchen sollte.
+### Der Geist im Salon
 
-### Das Zimmer neben dem Badezimmer – Spuren von Elscieth
+Im Salon ist die Gruppe nicht allein: Dort hält sich ein Geist auf, mit dem sie ins Gespräch kommt und dem Percival mit ausgesuchter Höflichkeit begegnet. Nach allem, was die Gruppe zusammenträgt, handelt es sich um [[Perrius Anmatar]] – jenen Gast, dessen Name als letzter lesbarer Eintrag im Gästebuch der Vorhalle steht.
 
-Percival erinnert sich, dass im Stockwerk darüber neben einem Badezimmer noch ein weiteres Zimmer lag. Die Gruppe kehrt über die Tür, durch die sie hereingekommen war, nach oben zurück, wartet, bis alle beisammen sind, und betritt den Raum. Percival macht sich mit Vellaras Unterstützung an eine gründliche Durchsuchung.
+### Die Garderobe und die verfluchten Mäntel
 
-Was die Gruppe dort findet, deutet auf [[Elscieth]] hin: das ältere der beiden Kinder von [[Darius Danos|Darius]] und [[Ylana]], nicht magiebegabt, früh in die Stadt gezogen und trotz ihres Zerwürfnisses mit ihrem Bruder [[Kryn]] – einem Streit um das Erbe und um Kryns Frau – in der Katastrophennacht zu Gast auf Raventree. Es handelt sich also allem Anschein nach um Spuren der Mutter der Auftraggeberin [[Byscilla Corvinarus-Danos|Byscilla]]. Unter den Funden ist ein Gegenstand mit einer persönlichen Widmung. Die Gruppe rätselt, von wem er stammt – Percival hält auch einen heimlichen Liebhaber für denkbar –, bis sich herausstellt, dass er offenbar von Elscieths Ehemann stammt. Einen Namen oder eine Initiale trägt er allerdings nicht; ein „B" für [[Betrand]] fehlt.
+Während Percival sich weiter umsieht, entdeckt er neben dem Salon eine begehbare Garderobe voller Mäntel und Umhänge. Er wendet sich an den Geist und fragt ihn, welches der Stücke denn ihm gehöre. Dann betritt er den Raum vorsichtig, um sich umzusehen, ohne etwas anzufassen.
+
+Kurz darauf entbrennt ein Kampf: Mehrere Mäntel erwachen zu bösartigem Leben – die [[Verfluchte Mäntel (Raventree)|verfluchten Mäntel]]. Percival versucht zunächst, eines der Wesen mit seinem Netz einzufangen, und zieht sich danach geschickt zurück. Später greift er mit seinem Krummsäbel an, nutzt die Nähe eines Gefährten für einen hinterhältigen Treffer und wirft erneut sein Netz. Als sich einer der Mäntel um [[Yasheira]] schlingt, stürmt Percival heran und versucht, ihn von ihr wegzureißen – vergeblich. Er schlägt auf den Mantel ein, doch seine Hiebe treffen zum Teil auch Yasheira selbst, die in ihm gefangen ist. Mit vereinten Kräften besiegt die Gruppe die Mäntel schließlich.
+
+Anschließend durchsucht Percival die Überreste der Umhänge nach Gegenständen in ihren Taschen, bevor er die Garderobe verlässt. Gegenüber Vellara, der Magie stets eher ihr Metier war, äußert er Unverständnis darüber, warum jemand Mäntel überhaupt auf diese Weise verfluchen sollte.
+
+### Das Ankleidezimmer – ein Anhänger für Elscieth
+
+Percival erinnert sich, dass oben in der Suite neben dem Badezimmer noch ein weiteres Zimmer lag. Die Gruppe kehrt auf dem Weg, den sie gekommen ist, nach oben zurück, wartet, bis alle beisammen sind, und betritt das Ankleidezimmer. Percival macht sich mit Vellaras Unterstützung an eine gründliche Durchsuchung.
+
+Dabei kommt ein Smaragdanhänger zum Vorschein, in den eine Widmung graviert ist: „Für meine geliebte Elscieth – möge dich dies stets an mich erinnern." Percival schlägt in seinen Notizen nach, was die Gruppe über [[Elscieth]] weiß: das ältere der beiden Kinder von Darius und [[Ylana]], nicht magiebegabt, früh in die Stadt gezogen und trotz ihres Zerwürfnisses mit ihrem Bruder [[Kryn]] – einem Streit um das Erbe und um Kryns Frau – in der Katastrophennacht zu Gast auf Raventree. Es ist also allem Anschein nach ein Erinnerungsstück der Mutter der Auftraggeberin [[Byscilla Corvinarus-Danos|Byscilla]].
+
+Wer ihr den Anhänger geschenkt hat, sorgt für eine kleine Debatte: Percival hält auch einen heimlichen Liebhaber für denkbar, doch die Gruppe kommt zu dem Schluss, dass er von Elscieths Ehemann stammt. Einen Namen oder eine Initiale trägt die Gravur allerdings nicht – ein „B" für den Ehemann, den die Gruppe als Bartram kennt ([[Betrand]]), sucht Percival vergeblich.
 
 ### Rast, Identifikation und Rückweg
 
-Nach den Kämpfen legt die Gruppe eine kurze Rast ein. Ein Gruppenmitglied wirkt ein Identifizierungsritual, und Percival reicht dafür seinen verzauberten Dolch herüber; vermutet wird eine Verzauberung der Schule der Bezauberung. Die Frage, ob sich von unterhalb oder vom Spiegel her Magie spüren lässt, bleibt ohne klares Ergebnis – dicke Wände oder Böden scheinen die Wahrnehmung zu behindern.
+Nach den Kämpfen legt die Gruppe eine kurze Rast ein. Ein Gruppenmitglied wirkt ein Identifizierungsritual, und Percival reicht dafür seinen verzauberten Dolch herüber; vermutet wird eine Verzauberung der Schule der Bezauberung. Die Frage, ob sich von unterhalb oder vom Spiegel her Magie spüren lässt, bleibt ohne klares Ergebnis – dicke Wände und Böden scheinen die Wahrnehmung zu behindern.
 
 Einig ist sich die Gruppe in einem Punkt: Im Anwesen wird definitiv nicht übernachtet. Auf dem Rückweg nach Ferncombe beginnt Percival, den zugewucherten Weg ein Stück freizuschlagen – ein Plan, dem die anderen gerne zustimmen. Zurück im Gasthaus bestellt er sich einen Eintopf.
 
 ### Der letzte Gast im Gästebuch
 
-Beim Abendessen fällt Percival beim Durchsehen seiner Notizen noch etwas auf: [[Perrius Anmatar]] war der letzte Gast, der sich in das Gästebuch von Raventree eingetragen hatte..
+Beim Abendessen fällt Percival beim Durchsehen seiner Notizen noch etwas auf: Perrius Anmatar war der letzte Gast, der sich in das Gästebuch von Raventree eingetragen hatte – offenbar ein Gast der Katastrophennacht, dessen Geist bis heute im Haus verweilt.
 
 ## Wichtige Begegnungen
 
 - Eine wabernde, magische Dunkelheit im Nordwesten des Anwesens (gemieden)
-- Ein unheimlicher, verrußter Spiegel in einem der oberen Räume
-- Ein Geist im begehbaren Kleiderschrank
-- [[Verfluchte Mäntel (Raventree)|Verfluchte Mäntel]], die die Gruppe angreifen und Yasheira umschlingen
+- Ein unheimlicher, verrußter Spiegel im Badezimmer der Gästesuite
+- Der Geist von [[Perrius Anmatar]] im Salon
+- [[Verfluchte Mäntel (Raventree)|Verfluchte Mäntel]] in der Garderobe neben dem Salon, die Yasheira umschlingen
 - Yasheiras kleiner Vertrauter, der zum Spiegel befragt wird
 
 ## Neue Hinweise
 
 - Im Nordwesten von [[Raventree]] liegt eine magische Dunkelheit; die Gruppe hat diesen Bereich bislang gemieden.
-- Ein Spiegel in den oberen Räumen ist verrußt und reagiert offenbar auf Magie – ein möglicher Bezug zur Warnung des [[Der elegante Mann (Patron)|eleganten Mannes]] vor Spiegeln.
-- Ein Raum im Obergeschoss enthält allem Anschein nach Spuren von [[Elscieth]], darunter einen Gegenstand mit einer Widmung, offenbar von ihrem Ehemann – ohne Namen oder Initiale.
-- In der Nähe des Spiegelraums führt ein Weg nach unten.
-- [[Perrius Anmatar]] ist der letzte Gast im Gästebuch von Raventree.
+- Die letzte Tür auf dem Balkon über der Vorhalle führt in eine große Gästesuite und ist von innen versperrt; die Suite ist von unten mit Kletterausrüstung erreichbar und über eine verborgene Treppe mit dem Salon verbunden, deren unterer Zugang hinter einem Porträt von [[Darius Danos|Darius]] liegt.
+- Versperrte Tür, zurückgelassene Kleidung und der verrußte Spiegel deuten darauf hin, dass sich vor der Gruppe schon jemand in der Suite aufgehalten hat.
+- Der Spiegel im Badezimmer ist verrußt, offenbar absichtlich; kurz zeigt sich darin etwas Ungeklärtes – ein möglicher Bezug zur Warnung des [[Der elegante Mann (Patron)|eleganten Mannes]] vor Spiegeln.
+- Im Salon hält sich der Geist von [[Perrius Anmatar]] auf, dem letzten Gast im Gästebuch.
+- Im Ankleidezimmer der Suite liegt ein Smaragdanhänger mit der Widmung „Für meine geliebte Elscieth – möge dich dies stets an mich erinnern", offenbar ein Geschenk ihres Ehemanns – ohne Namen oder Initiale.
 
 ## Offene Fragen
 
 - Was verbirgt sich in der magischen Dunkelheit im Nordwesten?
-- Was hat es mit dem Spiegel auf sich, wer hat ihn verrußt, und was wäre geschehen, hätte man ihn zerbrochen?
-- Wer ist der Geist im Kleiderschrank, und wer ist Oskar?
+- Was hat es mit dem Spiegel auf sich, wer hat ihn verrußt, und was zeigte sich darin?
+- Wer hat sich vor der Gruppe in der Suite verbarrikadiert, und was ist aus ihnen geworden?
+- Was weiß der Geist von Perrius Anmatar über die Katastrophennacht?
 - Warum wurden Mäntel verflucht – und von wem?
-- Stammt der Gegenstand mit der Widmung wirklich von [[Betrand]]?
-- Was steht hinter der von innen blockierten Tür, und wohin führt der Weg nach unten?
+- Stammt der Anhänger wirklich von [[Betrand]]?
 - Weiterhin offen: der Teleportationskreis, Darius' Testament und das Schicksal von [[Usk Umberdael|Usk]] und [[Kryn]].
 
 ## Verknüpfungen

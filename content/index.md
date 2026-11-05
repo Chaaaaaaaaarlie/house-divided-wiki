@@ -19,7 +19,7 @@ updated: 2026-11-05
 - [[Session 1 - 17.09.2026]] — Auftrag angenommen, Ankunft in Ferncombe
 - [[Session 2 - 01.10.2026]] — Usk/Villa-Faden weiterverfolgt, Hinweise auf Ausrüstungshandel aus der Villa
 - [[Session 3 - 15.10.2026]] — Anwesen Raventree betreten, Bibliothek erkundet, Teleportationskreis entdeckt
-- [[Session 4 - 05.11.2026]] — Obergeschoss von Raventree, Spiegel, verfluchte Mäntel, Spuren von Elscieth
+- [[Session 4 - 05.11.2026]] — Gästesuite, Salon und Garderobe in Raventree: verrußter Spiegel, Geist von Perrius Anmatar, verfluchte Mäntel, Anhänger für Elscieth
 
 ## Figuren
 
@@ -29,7 +29,7 @@ updated: 2026-11-05
 - [[Darius Danos]] — Großvater, verschollener Magier
 - [[Ylana]] — Großmutter, verstorben
 - [[Betrand]] — Ehemann von Elscieth, Vater von Byscilla
-- [[Elscieth]] — Mutter, nicht magiebegabt; Spuren von ihr im Obergeschoss von Raventree (Session 4)
+- [[Elscieth]] — Mutter, nicht magiebegabt; Smaragdanhänger mit Widmung an sie in Raventree gefunden (Session 4)
 - [[Kryn]] — Onkel, seit der Katastrophe verschwunden
 - [[Usk Umberdael]] — Butler, seit der Katastrophe verschwunden
 - [[Percival (Pryce)]] — Ermittler, lud die Gruppe ein
@@ -44,7 +44,7 @@ updated: 2026-11-05
 - [[Skipper]] — Anführer der Kobold-Fischer
 - [[Familie Bock]] — Apotheker-Familie
 - [[Der elegante Mann (Patron)]] — Traum-Patron, Identität unbekannt
-- [[Perrius Anmatar]] — Name aus dem Gästebuch von Raventree, Mitglied des Adelshauses Anmatar
+- [[Perrius Anmatar]] — letzter Gast im Gästebuch von Raventree, Adelshaus Anmatar; als Geist im Salon angetroffen (Session 4)
 
 ## Orte
 
@@ -52,7 +52,7 @@ updated: 2026-11-05
 - [[Telflamm]] — Stadt, Sitz von Haus Corvinarus
 - [[Corvinarus-Anwesen (Telflamm)]] — aktueller Stadtwohnsitz der Familie
 - [[Ferncombe]] — Dorf nahe Raventree
-- [[Raventree]] — ancestrales Anwesen, seit Session 3 betreten (Vorhalle, Bibliothek und Teile des Obergeschosses erkundet)
+- [[Raventree]] — ancestrales Anwesen, seit Session 3 betreten (Vorhalle, Bibliothek, Gästesuite, Salon und Garderobe erkundet)
 - [[Gasthaus Cait's]] — Gasthaus in Ferncombe
 - [[Rashem]] — Region im Süden, Verdacht auf Schmuggel
 
@@ -64,10 +64,10 @@ updated: 2026-11-05
 ## Fäden
 
 - [[fäden/_index|Fäden-Übersicht]]
-- [[Raventree-Anwesen untersuchen (Gefahren und Vermisste)]] — Hauptauftrag; seit Session 4 auch Obergeschoss, magische Dunkelheit im Nordwesten
+- [[Raventree-Anwesen untersuchen (Gefahren und Vermisste)]] — Hauptauftrag; seit Session 4: Gästesuite, Salon, magische Dunkelheit im Nordwesten, Spuren früherer Besucher
 - [[Testament finden]]
 - [[Schicksal von Usk und Kryn klären]]
-- [[Identität des Traum-Patrons klären]] — seit Session 4: verrußter Spiegel in Raventree
+- [[Identität des Traum-Patrons klären]] — seit Session 4: verrußter Spiegel in der Gästesuite von Raventree
 - [[Nips und Yasheiras Maus-Zusammenhang klären]]
 - [[Besuch beim Bürgermeister (nächster Schritt)]] — unmittelbarer nächster Schritt
 - [[Teleportationskreis in Raventree erforschen]] — neu seit Session 3
@@ -77,7 +77,7 @@ updated: 2026-11-05
 
 - [[kreaturen/_index|Kreaturen-Übersicht]]
 - [[Bücherschwarm (Raventree)]] — animierte Bücher in der Bibliothek von Raventree
-- [[Verfluchte Mäntel (Raventree)]] — verfluchte Mäntel im Kleiderschrank des Obergeschosses von Raventree
+- [[Verfluchte Mäntel (Raventree)]] — verfluchte Mäntel in der Garderobe neben dem Salon von Raventree
 
 ## Quellen
 

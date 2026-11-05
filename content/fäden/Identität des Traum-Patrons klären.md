@@ -24,18 +24,19 @@ sources:
 - Er bat darum, das Arbeitszimmer eines mächtigen Magiers (vermutlich [[Darius Danos]]) zu untersuchen und ihm zu berichten.
 - Kryptische Warnung: "Lass dich nicht von den Spiegeln beißen."
 
-- In [[Session 4 - 05.11.2026]] untersucht die Gruppe in den oberen Räumen von [[Raventree]] einen verrußten Spiegel, vor dem [[Vellara]] Magie wirkt; die Gruppe erwägt, ihn zu zerbrechen, verzichtet aber vorerst darauf.
+- In [[Session 4 - 05.11.2026]] untersucht die Gruppe im Badezimmer der Gästesuite von [[Raventree]] einen verrußten, offenbar absichtlich geschwärzten Spiegel, vor dem [[Vellara]] Magie wirkt. Kurz zeigt sich darin etwas Ungeklärtes, das [[Percival (Pryce)|Percival]] erneut zur Waffe greifen lässt. Die Gruppe erwägt, den Spiegel zu zerbrechen, verzichtet aber vorerst darauf.
 
 ## Hypothesen
 
 - Könnte sich um einen Patron eines Gruppenmitglieds handeln (z.B. Warlock-Patron).
 - Könnte mit Darius Danos selbst oder mit einer Entität zusammenhängen, die mit der Katastrophe auf Raventree in Verbindung steht.
 - Die Warnung vor "Spiegeln" könnte auf ein konkretes Objekt oder eine Gefahr im Arbeitszimmer auf [[Raventree]] hindeuten.
+- Der verrußte Spiegel in der Gästesuite könnte eine solche Gefahr sein – womöglich hat ihn jemand gerade deshalb geschwärzt.
 
 ## Offene Fragen
 
 - Wer oder was ist der "elegante Mann"?
-- Was hat es mit den Spiegeln auf sich?
+- Was hat es mit den Spiegeln auf sich – und was zeigte sich im Spiegel der Gästesuite?
 - Welchem Gruppenmitglied ist er erschienen? (aus der Quelle nicht eindeutig hervorgehend)
 
 ## Verknüpfungen

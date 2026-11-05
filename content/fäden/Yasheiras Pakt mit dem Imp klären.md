@@ -25,7 +25,7 @@ sources:
 - Er bietet an, Informationen zu verraten — jedoch ausschließlich im Tausch gegen Seelen, nichts anderes nimmt er als Bezahlung an.
 - Gegenüber [[Vellara]] deutet er eine unbeglichene Schuld an und wirft beiläufig eine unheilvolle Bemerkung über die Lebenserwartung von Gnomen ein.
 
-- In [[Session 4 - 05.11.2026]] fragt [[Percival (Pryce)|Percival]] den Vertrauten höflich, was geschehen wäre, hätte die Gruppe den Spiegel im Obergeschoss von Raventree zerstört.
+- In [[Session 4 - 05.11.2026]] fragt [[Percival (Pryce)|Percival]] den Vertrauten höflich, was geschehen wäre, hätte die Gruppe den Spiegel im Badezimmer der Gästesuite von Raventree zerstört.
 
 ## Hypothesen
 

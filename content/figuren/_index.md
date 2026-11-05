@@ -16,7 +16,7 @@ tags:
 - [[Darius Danos]] — Großvater, verschollener Magier
 - [[Ylana]] — Großmutter, verstorben
 - [[Betrand]] — Ehemann von Elscieth, Vater von Byscilla
-- [[Elscieth]] — Mutter, nicht magiebegabt; Spuren von ihr im Obergeschoss von Raventree (Session 4)
+- [[Elscieth]] — Mutter, nicht magiebegabt; Smaragdanhänger mit Widmung an sie in Raventree gefunden (Session 4)
 - [[Kryn]] — Onkel, seit der Katastrophe verschwunden
 - [[Usk Umberdael]] — Butler, seit der Katastrophe verschwunden
 
@@ -43,7 +43,7 @@ tags:
 ## Unbekannte / Mysteriöse Figuren
 
 - [[Der elegante Mann (Patron)]] — Traum-Patron, Identität unbekannt
-- [[Perrius Anmatar]] — Name aus dem Gästebuch von Raventree, Mitglied des Adelshauses Anmatar
+- [[Perrius Anmatar]] — letzter Gast im Gästebuch von Raventree, Adelshaus Anmatar; als Geist im Salon angetroffen (Session 4)
 
 ## Verknüpfungen
 

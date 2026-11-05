@@ -39,7 +39,7 @@ Die Fassade ist von dornigem Wildwuchs überwuchert, die beiden großen, mit dem
 
 Einst prachtvoll, heute dem Verfall preisgegeben: zerstörter Marmorboden, zerborstene Türen, dicke Staubschicht. Zwei marmorne Treppen führen zu einem Balkon im ersten Stock hinauf. Ein gewaltiger Kristallleuchter ist aus einer offenen Dachöffnung herabgestürzt und liegt in der Mitte der Halle, darunter der Arm einer zerschlagenen Statue. Unter den Trümmern eines umgestürzten Podests fand die Gruppe ein stark beschädigtes Gästebuch — einziger lesbarer Eintrag: der Name [[Perrius Anmatar]] aus dem benachbarten Adelshaus Anmatar, ein möglicher Festgast der Katastrophennacht.
 
-Auf dem Balkon über der Vorhalle liegt eine durch Wind und Wetter dauerhaft verzogene Doppeltür an der Südseite sowie eine weitere, bislang unerforschte Tür — die Erkundung endete hier am Ende von Session 3.
+Auf dem Balkon über der Vorhalle liegt eine durch Wind und Wetter dauerhaft verzogene Doppeltür an der Südseite sowie eine weitere Tür, die – wie sich in Session 4 zeigt – von innen versperrt ist und in die Gästesuite führt.
 
 ### Bibliothek
 
@@ -47,22 +47,25 @@ Ein gewaltiger, gewölbter Raum mit einer eingestürzten Empore; zerschlagene Re
 
 Über eine südliche, teils eingestürzte Empore erreichbar: ein Balkon mit einem beschädigten, aus Electrum gegossenen Teleportationskreis mit fester, einzelner Zielverbindung — siehe [[Teleportationskreis in Raventree erforschen]].
 
-### Obergeschoss (Session 4)
+### Erster Stock: Gästesuite, Salon und Garderobe (Session 4)
 
-In [[Session 4 - 05.11.2026]] erkundet die Gruppe die oberen Räume weiter (Quelle: [[Session 4 - 05.11.2026]]):
+In [[Session 4 - 05.11.2026]] erkundet die Gruppe vom Balkon über der Vorhalle aus weitere Räume (Quelle: [[Session 4 - 05.11.2026]]):
 
 - **Magische Dunkelheit im Nordwesten:** eine wabernde, offenbar magische Finsternis, aus deren Richtung Unheilvolles zu hören ist – bislang gemieden.
-- **Blockierte Tür:** nicht verschlossen, sondern von der anderen Seite durch einen großen, schweren Gegenstand versperrt; die Scharniere liegen auf der Seite der Gruppe, ein Aushebeln erwies sich dennoch als nicht praktikabel.
-- **Morscher Boden:** Beim Blick über eine Schwelle bricht [[Percival (Pryce)|Percival]] rund zwanzig Fuß tief in einen darunterliegenden Raum mit einer Treppe. Von dort führt eine Tür weiter oben in der Wand – mit Kletterausrüstung erreichbar – wieder in die oberen Räume; ein Seil ist dort befestigt.
-- **Spiegelraum:** ein verrußter, unheimlicher Spiegel, den die Gruppe untersucht, aber nicht zerbricht; daneben ein Rahmen unklarer Funktion, ein Schrank und Kleidungsstücke. Hinter einer Tür in der Nähe führt ein Weg nach unten.
-- **Begehbarer Kleiderschrank:** Hier zeigt sich ein Geist; die dort hängenden [[Verfluchte Mäntel (Raventree)|verfluchten Mäntel]] greifen die Gruppe an und werden besiegt.
-- **Zimmer neben dem Badezimmer:** enthält allem Anschein nach Spuren von [[Elscieth]], darunter einen Gegenstand mit einer Widmung, offenbar von ihrem Ehemann.
+- **Versperrte Balkontür:** Die letzte Tür auf dem Balkon über der Vorhalle ist nicht verschlossen, sondern von innen durch einen großen, schweren Gegenstand blockiert; die Scharniere liegen auf der Balkonseite, ein Aushebeln erwies sich dennoch als nicht praktikabel. Dahinter liegt die Gästesuite.
+- **Raum unterhalb der Suite:** Beim Blick über eine Schwelle stürzt [[Percival (Pryce)|Percival]] rund zwanzig Fuß tief in einen darunterliegenden Raum mit einer Treppe. Eine Tür hoch oben in dessen Wand führt in die Gästesuite – mit Kletterausrüstung erreichbar; ein Seil ist dort befestigt.
+- **Gästesuite:** eine große Zimmerflucht hinter der versperrten Balkontür. Zurückgelassene Kleidungsstücke und die Barrikade an der Tür deuten darauf hin, dass sich hier vor der Gruppe schon jemand aufgehalten hat.
+  - **Badezimmer:** mit einem verrußten, offenbar absichtlich geschwärzten Spiegel, in dem sich kurz etwas Ungeklärtes zeigt. Die Gruppe hat ihn untersucht, aber nicht zerbrochen.
+  - **Ankleidezimmer:** neben dem Badezimmer; hier fand die Gruppe einen Smaragdanhänger mit einer Widmung an [[Elscieth]], offenbar von ihrem Ehemann.
+- **Verborgene Treppe:** Hinter einem Rahmen bzw. Schrank in der Suite führt eine geheime Treppe hinab in den Salon; dort ist der Zugang hinter einem großen Porträt von [[Darius Danos|Darius]] verborgen.
+- **Salon:** Aufenthaltsort eines Geistes, offenbar [[Perrius Anmatar]], mit dem die Gruppe gesprochen hat.
+- **Garderobe:** begehbarer Raum neben dem Salon voller Mäntel und Umhänge; die [[Verfluchte Mäntel (Raventree)|verfluchten Mäntel]] darin griffen die Gruppe an und wurden besiegt.
 
 Die Gruppe beschließt, keinesfalls im Anwesen zu übernachten, und schlägt auf dem Rückweg den zugewucherten Pfad nach Ferncombe teilweise frei.
 
 ## Bewohner / Anwesende
 
-Seit der Katastrophennacht unbewohnt bis auf mindestens zwei [[Bücherschwarm (Raventree)|Bücherschwärme]] in der Bibliothek, [[Verfluchte Mäntel (Raventree)|verfluchte Mäntel]] und einen Geist im Obergeschoss. Vor der Katastrophe: Familie Danos und Bedienstete, darunter [[Usk Umberdael|Usk]].
+Seit der Katastrophennacht unbewohnt bis auf mindestens zwei [[Bücherschwarm (Raventree)|Bücherschwärme]] in der Bibliothek, die [[Verfluchte Mäntel (Raventree)|verfluchten Mäntel]] in der Garderobe (besiegt), den Geist von [[Perrius Anmatar]] im Salon und eine ungeklärte Erscheinung im Spiegel der Gästesuite. Vor der Katastrophe: Familie Danos und Bedienstete, darunter [[Usk Umberdael|Usk]].
 
 ## Was die Gruppe weiß
 

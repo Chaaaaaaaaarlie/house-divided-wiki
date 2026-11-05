@@ -17,7 +17,7 @@ tags:
 ## Ferncombe und Umgebung
 
 - [[Ferncombe]] — Dorf nahe Raventree
-- [[Raventree]] — ancestrales Anwesen, seit Session 3 betreten (Vorhalle, Bibliothek und Teile des Obergeschosses erkundet)
+- [[Raventree]] — ancestrales Anwesen, seit Session 3 betreten (Vorhalle, Bibliothek, Gästesuite, Salon und Garderobe erkundet)
 - [[Gasthaus Cait's]] — Gasthaus in Ferncombe
 
 ## Hintergrund

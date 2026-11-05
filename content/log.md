@@ -7,6 +7,11 @@ updated: 2026-11-05
 
 # Vorgangs-Protokoll
 
+## [2026-11-05] revision | Session 4 überarbeitet
+
+- [[Session 4 - 05.11.2026]] und [[Quelle - Session 4 - 05.11.2026]] ergänzt um Raumdetails aus Spieler-Notizen: Gästesuite hinter der versperrten Balkontür (Badezimmer mit Spiegel, Ankleidezimmer), verborgene Treppe zum Salon, Geist von Perrius Anmatar im Salon, Garderobe mit den verfluchten Mänteln, Smaragdanhänger mit Widmung an Elscieth.
+- Aktualisiert: [[Raventree]], [[Perrius Anmatar]], [[Elscieth]], [[Betrand]], [[Darius Danos]], [[Verfluchte Mäntel (Raventree)]], [[Percival (Pryce)]], [[Vellara]], [[Yasheira]], [[Der elegante Mann (Patron)]], [[Raventree-Anwesen untersuchen (Gefahren und Vermisste)]], [[Identität des Traum-Patrons klären]], [[Yasheiras Pakt mit dem Imp klären]], `wiki/hot.md`, `wiki/overview.md`, `wiki/index.md`, Ordner-Übersichten und `Willkommen.md`.
+
 ## [2026-11-05] lint | Index-Reparatur nach Session 4
 
 - `wiki/index.md`: alle Figuren, Orte, Fraktionen, Fäden, Kreaturen und Quellen nun direkt verlinkt (zusätzlich zu den Ordner-Übersichten).
