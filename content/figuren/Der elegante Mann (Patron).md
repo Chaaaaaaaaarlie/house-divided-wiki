@@ -2,7 +2,7 @@
 type: entity
 title: "Der elegante Mann (Patron)"
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-11-05
 tags:
   - domain/characters
 entity_type: person
@@ -14,6 +14,7 @@ related:
   - "[[Raventree]]"
 sources:
   - "[[Session 1 - 17.09.2026]]"
+  - "[[Session 4 - 05.11.2026]]"
 ---
 
 # Der elegante Mann (Patron)
@@ -30,7 +31,7 @@ Bittet darum, das Arbeitszimmer eines mächtigen Magiers (vermutlich [[Darius Da
 
 ## Bekanntes
 
-Keine weiteren Details bisher bekannt.
+- In [[Session 4 - 05.11.2026]] stößt die Gruppe in den oberen Räumen von [[Raventree]] auf einen verrußten, unheimlichen Spiegel – möglicherweise ein Bezug zu seiner Warnung. Siehe [[Identität des Traum-Patrons klären]].
 
 ## Verknüpfungen
 

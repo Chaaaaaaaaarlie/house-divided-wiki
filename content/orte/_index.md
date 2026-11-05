@@ -2,7 +2,7 @@
 type: meta
 title: "Orte-Übersicht"
 created: 2026-10-01
-updated: 2026-10-15
+updated: 2026-11-05
 tags:
   - domain/locations
 ---
@@ -17,7 +17,7 @@ tags:
 ## Ferncombe und Umgebung
 
 - [[Ferncombe]] — Dorf nahe Raventree
-- [[Raventree]] — ancestrales Anwesen, seit Session 3 betreten (Vorhalle, Bibliothek erkundet)
+- [[Raventree]] — ancestrales Anwesen, seit Session 3 betreten (Vorhalle, Bibliothek und Teile des Obergeschosses erkundet)
 - [[Gasthaus Cait's]] — Gasthaus in Ferncombe
 
 ## Hintergrund

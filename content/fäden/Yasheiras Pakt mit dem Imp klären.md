@@ -2,7 +2,7 @@
 type: concept
 title: "Yasheiras Pakt mit dem Imp klären"
 created: 2026-10-15
-updated: 2026-10-15
+updated: 2026-11-05
 tags:
   - domain/threads
 status: open
@@ -14,6 +14,7 @@ related:
   - "[[Nips und Yasheiras Maus-Zusammenhang klären]]"
 sources:
   - "[[Session 3 - 15.10.2026]]"
+  - "[[Session 4 - 05.11.2026]]"
 ---
 
 # Yasheiras Pakt mit dem Imp klären
@@ -23,6 +24,8 @@ sources:
 - In der Bibliothek von [[Raventree]] zeigt sich erstmals offen ein kleiner, spöttischer Vertrauter an [[Yasheira|Yasheiras]] Seite, der die Gruppe als „einfältige Sterbliche" verspottet.
 - Er bietet an, Informationen zu verraten — jedoch ausschließlich im Tausch gegen Seelen, nichts anderes nimmt er als Bezahlung an.
 - Gegenüber [[Vellara]] deutet er eine unbeglichene Schuld an und wirft beiläufig eine unheilvolle Bemerkung über die Lebenserwartung von Gnomen ein.
+
+- In [[Session 4 - 05.11.2026]] fragt [[Percival (Pryce)|Percival]] den Vertrauten höflich, was geschehen wäre, hätte die Gruppe den Spiegel im Obergeschoss von Raventree zerstört.
 
 ## Hypothesen
 

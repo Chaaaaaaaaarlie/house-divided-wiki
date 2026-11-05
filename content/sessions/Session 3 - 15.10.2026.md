@@ -19,7 +19,7 @@ related:
   - "[[Yasheira]]"
   - "[[Cait]]"
   - "[[Darius Danos]]"
-  - "[[Perius Amnata]]"
+  - "[[Perrius Anmatar]]"
   - "[[Raventree]]"
   - "[[Ferncombe]]"
   - "[[Haus Corvinarus (Familie Danos)]]"
@@ -54,7 +54,7 @@ Die Gruppe verlässt Ferncombe gegen halb acht Uhr morgens. Der Weg durch den Wa
 
 Dahinter öffnet sich eine einst prachtvolle Vorhalle, heute dem Verfall preisgegeben: der Marmorboden unter einer dicken Staubschicht, zerborstene Türen, der modrige Geruch zwanzig Jahre ungelüfteter Räume. Zwei marmorne Treppen führen hinauf zum ersten Stock, gegenüberliegende Doppeltüren führen tiefer ins Haus. In der Mitte der Halle liegt ein gewaltiger, herabgestürzter Kristallleuchter – offenbar aus großer Höhe durch eine offene Dachöffnung gefallen – unter dem der Arm einer zerschlagenen Statue hervorragt. Die Gruppe entzündet Licht an einer der Kerzen aus dem Leuchter.
 
-Unter den Trümmern eines umgestürzten Podests findet die Gruppe ein stark wassergeschädigtes Gästebuch. Fast alle Einträge sind unleserlich verblasst, nur der letzte lässt sich noch entziffern: der Name **[[Perius Amnata]]**. Eine kurze Nachforschung zu Adelshäusern der Gegend ergibt: Perius selbst ist zu unbedeutend, um irgendwo verzeichnet zu sein, doch die Familie **Amnata** ist ein benachbartes, durchaus bekanntes Adelshaus – ein plausibler Gast für ein großes Fest auf Raventree.
+Unter den Trümmern eines umgestürzten Podests findet die Gruppe ein stark wassergeschädigtes Gästebuch. Fast alle Einträge sind unleserlich verblasst, nur der letzte lässt sich noch entziffern: der Name **[[Perrius Anmatar]]**. Eine kurze Nachforschung zu Adelshäusern der Gegend ergibt: Perrius selbst ist zu unbedeutend, um irgendwo verzeichnet zu sein, doch die Familie **Anmatar** ist ein benachbartes, durchaus bekanntes Adelshaus – ein plausibler Gast für ein großes Fest auf Raventree.
 
 Der zuvor entdeckte verborgene Dienstboteneingang führt in eine kleine Abstellkammer für Reinigungsmittel und Bettwäsche, die meiste davon nach zwanzig Jahren verrottet; [[Vellara]] steckt im Vorbeigehen noch ein paar brauchbare Fläschchen ein. Die Kammer öffnet sich auf der anderen Seite in die Bibliothek des Anwesens.
 
@@ -90,7 +90,7 @@ Von der Bibliothek aus wechselt die Gruppe auf einen weiteren Balkon, der die Vo
 ## Neue Hinweise
 
 - Das Anwesen [[Raventree]] ist nach zwanzig Jahren endlich betreten; Vorhalle und Bibliothek sind erkundet, weite Teile des Hauses noch nicht.
-- Das Gästebuch nennt als letzten lesbaren Eintrag [[Perius Amnata]] aus dem benachbarten Adelshaus Amnata – ein möglicher Festgast der Katastrophennacht.
+- Das Gästebuch nennt als letzten lesbaren Eintrag [[Perrius Anmatar]] aus dem benachbarten Adelshaus Anmatar – ein möglicher Festgast der Katastrophennacht.
 - In der Bibliothek finden sich ein Brieföffner mit den Initialen „D.C." und ein Brief von Darius an seine Tochter mit der Einladung zur Gedenkfeier, die zur Katastrophennacht wurde – erste greifbare, persönliche Spuren von [[Darius Danos|Darius]] selbst.
 - Ein beschädigter Teleportationskreis auf einem Balkon über der Bibliothek führt zu einem einzigen, offenbar eigens erschaffenen Zielort – möglicherweise verbunden mit dem Verschwinden der Festgäste vor zwanzig Jahren.
 - Yasheiras Vertrauter zeigt sich erstmals offen, handelt nur gegen Seelen und deutet eine unbeglichene Schuld gegenüber Vellara an.

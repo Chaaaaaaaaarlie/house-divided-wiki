@@ -2,7 +2,7 @@
 type: entity
 title: "Kaelen"
 created: 2026-10-01
-updated: 2026-10-15
+updated: 2026-11-05
 tags:
   - domain/characters
 entity_type: person
@@ -15,6 +15,7 @@ related:
 sources:
   - "[[Session 1 - 17.09.2026]]"
   - "[[Session 3 - 15.10.2026]]"
+  - "[[Session 4 - 05.11.2026]]"
 ---
 
 # Kaelen
@@ -28,6 +29,8 @@ Human-Druide aus Neverwinter, auf großer Reise um die Welt kennenzulernen. Stä
 War beim Gruppentreffen in der Taverne in [[Telflamm]] bereits betrunken und tanzte/sang nicht sehr subtil — die Gruppe zog sich deshalb auf Percivals Zimmer zurück.
 
 In [[Session 3 - 15.10.2026]] erscheint er mit deutlichem Kater zum Frühstück bei [[Cait]] und stürzt dabei fast die Treppe hinunter. In der Bibliothek von Raventree reaktiviert er mit einem kleinen Reparaturzauber die verwitterten Schutzrunen einer alten Vitrine und unterstützt die Gruppe mit Zaubern im Kampf gegen die dortigen Bücherschwärme.
+
+In [[Session 4 - 05.11.2026]] wendet sich Percival vor dem verrußten Spiegel in Raventree an ihn, um zu klären, ob der Spiegel verrußt sei.
 
 ## Bekanntes
 

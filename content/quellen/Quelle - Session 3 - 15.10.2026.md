@@ -11,7 +11,7 @@ url:
 confidence: high
 key_claims:
   - "Die Gruppe erreicht nach einem mehrstündigen Fußmarsch endlich das Anwesen Raventree und betritt es erstmals."
-  - "In der Vorhalle findet sich ein beschädigtes Gästebuch mit dem letzten lesbaren Eintrag 'Perius Amnata'."
+  - "In der Vorhalle findet sich ein beschädigtes Gästebuch mit dem letzten lesbaren Eintrag 'Perrius Anmatar'."
   - "In der Bibliothek werden zwei Schwärme animierter Bücher bekämpft und mehrere Gegenstände gefunden: ein Buch über planare Bindungen, drei Schriftrollen, ein Brieföffner mit den Initialen 'D.C.' und ein Brief von Darius an seine Tochter."
   - "Auf einem Balkon über der Bibliothek entdeckt die Gruppe einen beschädigten Teleportationskreis mit fester, einzelner Zielverbindung."
   - "Yasheiras Vertrauter zeigt sich erstmals offen und deutet eine unbeglichene Schuld gegenüber Vellara an."
@@ -29,7 +29,7 @@ Ausführliche Sitzungsnotizen zur dritten Session, deutlich detailreicher als di
 
 - Percival nimmt am Morgentraining der Dorfmiliz von Ferncombe teil und liefert sich ein Kräftemessen mit dem drachengeborenen Ausbilder; Kaelen erscheint mit Kater zum Frühstück bei Cait.
 - Der vierstündige Fußweg durch verwildertes Gelände bringt die Gruppe gegen Mittag erstmals zum Anwesen Raventree.
-- In der Vorhalle liegt ein gewaltiger herabgestürzter Kristallleuchter; unter Trümmern findet sich ein beschädigtes Gästebuch mit dem letzten lesbaren Eintrag „Perius Amnata" aus dem benachbarten Adelshaus Amnata.
+- In der Vorhalle liegt ein gewaltiger herabgestürzter Kristallleuchter; unter Trümmern findet sich ein beschädigtes Gästebuch mit dem letzten lesbaren Eintrag „Perrius Anmatar" aus dem benachbarten Adelshaus Anmatar.
 - In der Bibliothek greifen zwei Schwärme animierter Bücher die Gruppe an und werden ohne nennenswerte Verluste besiegt.
 - Funde in der Bibliothek: ein einst magisch konserviertes Buch „Planar Bindings and Portals", drei arkane Schriftrollen aus einer wiederhergestellten Vitrine, ein silberner Brieföffner mit den Initialen „D.C." und ein Brief von Darius an seine Tochter (Wortlaut: [[Brief - Darius an seine Tochter]]).
 - Auf einem Balkon über der Bibliothek identifiziert Vellara einen beschädigten Teleportationskreis, der fest mit einem einzigen, offenbar eigens erschaffenen Zielort verbunden ist.

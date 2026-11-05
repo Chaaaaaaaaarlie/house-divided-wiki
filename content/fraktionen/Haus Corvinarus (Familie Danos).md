@@ -51,7 +51,7 @@ Handel mit magischen Artefakten. Aktuell: das Erbe und die Geschäfte unter [[By
 
 > [!gap] Rausset — allgemeine Händlerfamilie, bislang nur Hintergrundwissen, in dieser Session nicht aufgetaucht. Beziehung zu Haus Corvinarus unbekannt.
 
-> [!gap] Amnata — benachbartes Adelshaus; laut einem Gästebuch-Fund in der Vorhalle von [[Raventree]] (Eintrag [[Perius Amnata]]) möglicherweise bei früheren Festen zu Gast. Beziehung zu Haus Corvinarus unbekannt.
+> [!gap] Anmatar — benachbartes Adelshaus; laut einem Gästebuch-Fund in der Vorhalle von [[Raventree]] (Eintrag [[Perrius Anmatar]]) möglicherweise bei früheren Festen zu Gast. Beziehung zu Haus Corvinarus unbekannt.
 
 ## Verknüpfungen
 

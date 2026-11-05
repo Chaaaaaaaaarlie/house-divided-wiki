@@ -2,10 +2,24 @@
 type: meta
 title: "Vorgangs-Protokoll"
 created: 2026-10-01
-updated: 2026-10-15
+updated: 2026-11-05
 ---
 
 # Vorgangs-Protokoll
+
+## [2026-11-05] lint | Index-Reparatur nach Session 4
+
+- `wiki/index.md`: alle Figuren, Orte, Fraktionen, Fäden, Kreaturen und Quellen nun direkt verlinkt (zusätzlich zu den Ordner-Übersichten).
+- Neue Ordner-Übersichten angelegt: `wiki/lore/_index.md`, `wiki/konzepte/_index.md`, `wiki/gottheiten/_index.md`, `wiki/vergleiche/_index.md`, `wiki/fragen/_index.md` (noch ohne Einträge) und im Index verlinkt.
+
+## [2026-11-05] recap | Session 4
+
+- Quelle: Sitzungsnotizen zur vierten Session; Quellenseite [[Quelle - Session 4 - 05.11.2026]].
+- Session-Seite erstellt: [[Session 4 - 05.11.2026]] — Erkundung des Obergeschosses von Raventree: gemiedene magische Dunkelheit im Nordwesten, Sturz durch morschen Boden, verrußter Spiegel, Kampf gegen verfluchte Mäntel, Spuren von Elscieth; Rückkehr nach Ferncombe.
+- Neue Seite: [[Verfluchte Mäntel (Raventree)]] (Kreatur).
+- Aktualisierte Seiten: [[Raventree]] (neuer Abschnitt Obergeschoss), [[Percival (Pryce)]], [[Vellara]], [[Yasheira]], [[Kaelen]], [[Elscieth]], [[Betrand]], [[Perrius Anmatar]] (Schreibweise bestätigt), [[Der elegante Mann (Patron)]], [[Raventree-Anwesen untersuchen (Gefahren und Vermisste)]], [[Identität des Traum-Patrons klären]], [[Yasheiras Pakt mit dem Imp klären]].
+- `wiki/index.md`, `wiki/overview.md`, `wiki/hot.md`, `wiki/sessions/_index.md`, `wiki/quellen/_index.md`, `wiki/kreaturen/_index.md`, `wiki/orte/_index.md`, `wiki/figuren/_index.md`, `wiki/fäden/_index.md` und `Willkommen.md` entsprechend aktualisiert.
+- Kernaussage: Die Gruppe erkundet die privaten Räume im Obergeschoss von Raventree; der Spiegel gibt der Warnung des eleganten Mannes erstmals einen konkreten Bezugspunkt, und mit Elscieth tritt die Mutter der Auftraggeberin in den Fokus.
 
 ## [2026-10-15] ingest | Brief von Darius
 
@@ -19,8 +33,8 @@ updated: 2026-10-15
 - Quelle: ausführliche Sitzungsnotizen zur dritten Session.
 - Quellen-Zusammenfassung erstellt: [[Quelle - Session 3 - 15.10.2026]].
 - Session-Seite erstellt: [[Session 3 - 15.10.2026]] — die Gruppe betritt erstmals das Anwesen Raventree, erkundet Vorhalle und Bibliothek, besteht zwei Kämpfe gegen Bücherschwärme und entdeckt einen beschädigten Teleportationskreis mit fester Zielverbindung.
-- Neue Seiten: [[Perius Amnata]] (Figur), [[Bücherschwarm (Raventree)]] (Kreatur, inkl. neuem `wiki/kreaturen/_index.md`), [[Teleportationskreis in Raventree erforschen]] und [[Yasheiras Pakt mit dem Imp klären]] (Fäden).
-- Aktualisierte Seiten: [[Raventree]] (deutlich erweitert: Vorhalle, Bibliothek, Teleportationskreis), [[Haus Corvinarus (Familie Danos)]] (Adelshaus Amnata als Gap-Notiz), [[Darius Danos]] (Brieföffner, Brief, Teleportationskreis-Gap), [[Raventree-Anwesen untersuchen (Gefahren und Vermisste)]], [[Testament finden]], [[Percival (Pryce)]], [[Vellara]], [[Rhaelis]], [[Kaelen]], [[Yasheira]], [[Cait]].
+- Neue Seiten: [[Perrius Anmatar]] (Figur), [[Bücherschwarm (Raventree)]] (Kreatur, inkl. neuem `wiki/kreaturen/_index.md`), [[Teleportationskreis in Raventree erforschen]] und [[Yasheiras Pakt mit dem Imp klären]] (Fäden).
+- Aktualisierte Seiten: [[Raventree]] (deutlich erweitert: Vorhalle, Bibliothek, Teleportationskreis), [[Haus Corvinarus (Familie Danos)]] (Adelshaus Anmatar als Gap-Notiz), [[Darius Danos]] (Brieföffner, Brief, Teleportationskreis-Gap), [[Raventree-Anwesen untersuchen (Gefahren und Vermisste)]], [[Testament finden]], [[Percival (Pryce)]], [[Vellara]], [[Rhaelis]], [[Kaelen]], [[Yasheira]], [[Cait]].
 - `wiki/index.md`, `wiki/overview.md`, `wiki/hot.md`, `wiki/sessions/_index.md`, `wiki/fäden/_index.md`, `wiki/orte/_index.md`, `wiki/figuren/_index.md`, `wiki/quellen/_index.md` und `Willkommen.md` entsprechend aktualisiert.
 - Kernaussage: Nach zwei Sessions reiner Ermittlungsarbeit in Ferncombe steht die Gruppe erstmals im Inneren von Raventree — mit einem neuen, zentralen Rätsel (dem Teleportationskreis) und einem neuen Hinweis auf Yasheiras bislang verborgenen Pakt.
 

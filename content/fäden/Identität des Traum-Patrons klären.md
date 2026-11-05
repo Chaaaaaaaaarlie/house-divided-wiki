@@ -2,7 +2,7 @@
 type: concept
 title: "Identität des Traum-Patrons klären"
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-11-05
 tags:
   - domain/threads
 status: open
@@ -13,6 +13,7 @@ related:
   - "[[Darius Danos]]"
 sources:
   - "[[Session 1 - 17.09.2026]]"
+  - "[[Session 4 - 05.11.2026]]"
 ---
 
 # Identität des Traum-Patrons klären
@@ -22,6 +23,8 @@ sources:
 - Ein "eleganter Mann" erschien einem Gruppenmitglied während der Reise nach Ferncombe im Traum.
 - Er bat darum, das Arbeitszimmer eines mächtigen Magiers (vermutlich [[Darius Danos]]) zu untersuchen und ihm zu berichten.
 - Kryptische Warnung: "Lass dich nicht von den Spiegeln beißen."
+
+- In [[Session 4 - 05.11.2026]] untersucht die Gruppe in den oberen Räumen von [[Raventree]] einen verrußten Spiegel, vor dem [[Vellara]] Magie wirkt; die Gruppe erwägt, ihn zu zerbrechen, verzichtet aber vorerst darauf.
 
 ## Hypothesen
 

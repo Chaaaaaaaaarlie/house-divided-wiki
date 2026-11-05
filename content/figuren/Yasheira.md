@@ -2,7 +2,7 @@
 type: entity
 title: "Yasheira"
 created: 2026-10-01
-updated: 2026-10-15
+updated: 2026-11-05
 tags:
   - domain/characters
 entity_type: person
@@ -12,9 +12,11 @@ first_mentioned: "[[Session 1 - 17.09.2026]]"
 related:
   - "[[Rhaelis]]"
   - "[[Vellara]]"
+  - "[[Verfluchte Mäntel (Raventree)]]"
 sources:
   - "[[Session 1 - 17.09.2026]]"
   - "[[Session 3 - 15.10.2026]]"
+  - "[[Session 4 - 05.11.2026]]"
 ---
 
 # Yasheira
@@ -28,6 +30,8 @@ Auf Reise, um Missionen für ihren Orden auszuführen. Schwerterfahrung, trägt 
 Stellte sich am ersten Abend in der Taverne in [[Telflamm]] der Gruppe vor.
 
 In der Bibliothek von [[Raventree]] zeigt sich in [[Session 3 - 15.10.2026]] erstmals offen ein kleiner, spöttischer Vertrauter an ihrer Seite, der nur gegen Seelen Informationen anbietet und [[Vellara]] gegenüber eine unbeglichene Schuld andeutet — siehe [[Yasheiras Pakt mit dem Imp klären]].
+
+In [[Session 4 - 05.11.2026]] wird sie im begehbaren Kleiderschrank von Raventree von einem der [[Verfluchte Mäntel (Raventree)|verfluchten Mäntel]] umschlungen; Percivals Versuch, den Mantel wegzureißen, scheitert. Ihr Vertrauter wird zum Spiegel im Obergeschoss befragt.
 
 > [!gap] Ihre Maus ist möglicherweise identisch mit dem unsichtbaren Raben-Familiar Nips, der unterwegs auftauchte und Kontakt zu Rhaelis' Falken Sahim suchte, oder sogar mit dem in Session 3 aufgetauchten Vertrauten, falls dieser seine Gestalt wandeln kann — noch ungeklärt. Siehe [[Nips und Yasheiras Maus-Zusammenhang klären]].
 

@@ -2,7 +2,7 @@
 type: meta
 title: "Figuren-Übersicht"
 created: 2026-10-01
-updated: 2026-10-15
+updated: 2026-11-05
 tags:
   - domain/characters
 ---
@@ -16,7 +16,7 @@ tags:
 - [[Darius Danos]] — Großvater, verschollener Magier
 - [[Ylana]] — Großmutter, verstorben
 - [[Betrand]] — Ehemann von Elscieth, Vater von Byscilla
-- [[Elscieth]] — Mutter, nicht magiebegabt
+- [[Elscieth]] — Mutter, nicht magiebegabt; Spuren von ihr im Obergeschoss von Raventree (Session 4)
 - [[Kryn]] — Onkel, seit der Katastrophe verschwunden
 - [[Usk Umberdael]] — Butler, seit der Katastrophe verschwunden
 
@@ -43,7 +43,7 @@ tags:
 ## Unbekannte / Mysteriöse Figuren
 
 - [[Der elegante Mann (Patron)]] — Traum-Patron, Identität unbekannt
-- [[Perius Amnata]] — Name aus dem Gästebuch von Raventree, Mitglied des Adelshauses Amnata
+- [[Perrius Anmatar]] — Name aus dem Gästebuch von Raventree, Mitglied des Adelshauses Anmatar
 
 ## Verknüpfungen
 

@@ -2,7 +2,7 @@
 type: concept
 title: "Raventree-Anwesen untersuchen (Gefahren und Vermisste)"
 created: 2026-10-01
-updated: 2026-10-15
+updated: 2026-11-05
 tags:
   - domain/threads
 status: open
@@ -11,9 +11,11 @@ first_appearance: "[[Session 1 - 17.09.2026]]"
 related:
   - "[[Raventree]]"
   - "[[Byscilla Corvinarus-Danos]]"
+  - "[[Verfluchte Mäntel (Raventree)]]"
 sources:
   - "[[Session 1 - 17.09.2026]]"
   - "[[Session 3 - 15.10.2026]]"
+  - "[[Session 4 - 05.11.2026]]"
 ---
 
 # Raventree-Anwesen untersuchen (Gefahren und Vermisste)
@@ -24,7 +26,9 @@ sources:
 - Bezahlung: 2 Wochen Unterkunft in Ferncombe (bereits bezahlt) + gestellte Kutsche, Gefahrenzulage bei konkreten Funden verhandelbar.
 - Seit [[Session 3 - 15.10.2026|Session 3]] hat die Gruppe das Anwesen endlich betreten: Vorhalle und Bibliothek sind erkundet, weite Teile des Hauses noch nicht.
 - Konkrete Gefahr bestätigt: mindestens zwei [[Bücherschwarm (Raventree)|Bücherschwärme]] in der Bibliothek, von der Gruppe ohne nennenswerte Verluste besiegt.
-- In der Vorhalle fand sich ein beschädigtes Gästebuch mit dem letzten lesbaren Eintrag [[Perius Amnata]] aus dem Adelshaus Amnata; in der Bibliothek ein Brieföffner und ein Brief mit Bezug zu [[Darius Danos|Darius]] sowie ein beschädigter Teleportationskreis (siehe [[Teleportationskreis in Raventree erforschen]]).
+- In der Vorhalle fand sich ein beschädigtes Gästebuch mit dem letzten lesbaren Eintrag [[Perrius Anmatar]] aus dem Adelshaus Anmatar; in der Bibliothek ein Brieföffner und ein Brief mit Bezug zu [[Darius Danos|Darius]] sowie ein beschädigter Teleportationskreis (siehe [[Teleportationskreis in Raventree erforschen]]).
+
+- In [[Session 4 - 05.11.2026]] erkundet die Gruppe das Obergeschoss: eine gemiedene magische Dunkelheit im Nordwesten, morscher Boden, ein verrußter Spiegel, ein Geist und [[Verfluchte Mäntel (Raventree)|verfluchte Mäntel]] im Kleiderschrank sowie ein Zimmer mit Spuren von [[Elscieth]]. Übernachtet wird bewusst nicht im Anwesen; der Pfad nach Ferncombe ist teilweise freigeschlagen.
 
 ## Hypothesen
 
@@ -36,7 +40,9 @@ sources:
 - Was genau geschah in der Katastrophennacht?
 - Welche weiteren Gefahren bestehen auf dem noch unerforschten Teil des Geländes?
 - Wo sind die Vermissten (u.a. [[Usk Umberdael]], [[Kryn]])?
-- Was liegt hinter der letzten noch ungeöffneten Tür auf dem Balkon über der Vorhalle?
+- Was verbirgt sich in der magischen Dunkelheit im Nordwesten?
+- Was steht hinter der blockierten Tür, und wohin führt der Weg nach unten nahe dem Spiegelraum?
+- Wer ist der Geist im Kleiderschrank?
 
 ## Verknüpfungen
 

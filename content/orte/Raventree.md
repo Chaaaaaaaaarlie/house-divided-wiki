@@ -2,7 +2,7 @@
 type: entity
 title: "Raventree"
 created: 2026-10-01
-updated: 2026-10-15
+updated: 2026-11-05
 tags:
   - domain/locations
 entity_type: place
@@ -15,11 +15,14 @@ related:
   - "[[Usk Umberdael]]"
   - "[[Kryn]]"
   - "[[Noven Karlin]]"
-  - "[[Perius Amnata]]"
+  - "[[Perrius Anmatar]]"
   - "[[Bücherschwarm (Raventree)]]"
+  - "[[Verfluchte Mäntel (Raventree)]]"
+  - "[[Elscieth]]"
 sources:
   - "[[Session 1 - 17.09.2026]]"
   - "[[Session 3 - 15.10.2026]]"
+  - "[[Session 4 - 05.11.2026]]"
 ---
 
 # Raventree
@@ -34,7 +37,7 @@ Die Fassade ist von dornigem Wildwuchs überwuchert, die beiden großen, mit dem
 
 ### Vorhalle
 
-Einst prachtvoll, heute dem Verfall preisgegeben: zerstörter Marmorboden, zerborstene Türen, dicke Staubschicht. Zwei marmorne Treppen führen zu einem Balkon im ersten Stock hinauf. Ein gewaltiger Kristallleuchter ist aus einer offenen Dachöffnung herabgestürzt und liegt in der Mitte der Halle, darunter der Arm einer zerschlagenen Statue. Unter den Trümmern eines umgestürzten Podests fand die Gruppe ein stark beschädigtes Gästebuch — einziger lesbarer Eintrag: der Name [[Perius Amnata]] aus dem benachbarten Adelshaus Amnata, ein möglicher Festgast der Katastrophennacht.
+Einst prachtvoll, heute dem Verfall preisgegeben: zerstörter Marmorboden, zerborstene Türen, dicke Staubschicht. Zwei marmorne Treppen führen zu einem Balkon im ersten Stock hinauf. Ein gewaltiger Kristallleuchter ist aus einer offenen Dachöffnung herabgestürzt und liegt in der Mitte der Halle, darunter der Arm einer zerschlagenen Statue. Unter den Trümmern eines umgestürzten Podests fand die Gruppe ein stark beschädigtes Gästebuch — einziger lesbarer Eintrag: der Name [[Perrius Anmatar]] aus dem benachbarten Adelshaus Anmatar, ein möglicher Festgast der Katastrophennacht.
 
 Auf dem Balkon über der Vorhalle liegt eine durch Wind und Wetter dauerhaft verzogene Doppeltür an der Südseite sowie eine weitere, bislang unerforschte Tür — die Erkundung endete hier am Ende von Session 3.
 
@@ -44,9 +47,22 @@ Ein gewaltiger, gewölbter Raum mit einer eingestürzten Empore; zerschlagene Re
 
 Über eine südliche, teils eingestürzte Empore erreichbar: ein Balkon mit einem beschädigten, aus Electrum gegossenen Teleportationskreis mit fester, einzelner Zielverbindung — siehe [[Teleportationskreis in Raventree erforschen]].
 
+### Obergeschoss (Session 4)
+
+In [[Session 4 - 05.11.2026]] erkundet die Gruppe die oberen Räume weiter (Quelle: [[Session 4 - 05.11.2026]]):
+
+- **Magische Dunkelheit im Nordwesten:** eine wabernde, offenbar magische Finsternis, aus deren Richtung Unheilvolles zu hören ist – bislang gemieden.
+- **Blockierte Tür:** nicht verschlossen, sondern von der anderen Seite durch einen großen, schweren Gegenstand versperrt; die Scharniere liegen auf der Seite der Gruppe, ein Aushebeln erwies sich dennoch als nicht praktikabel.
+- **Morscher Boden:** Beim Blick über eine Schwelle bricht [[Percival (Pryce)|Percival]] rund zwanzig Fuß tief in einen darunterliegenden Raum mit einer Treppe. Von dort führt eine Tür weiter oben in der Wand – mit Kletterausrüstung erreichbar – wieder in die oberen Räume; ein Seil ist dort befestigt.
+- **Spiegelraum:** ein verrußter, unheimlicher Spiegel, den die Gruppe untersucht, aber nicht zerbricht; daneben ein Rahmen unklarer Funktion, ein Schrank und Kleidungsstücke. Hinter einer Tür in der Nähe führt ein Weg nach unten.
+- **Begehbarer Kleiderschrank:** Hier zeigt sich ein Geist; die dort hängenden [[Verfluchte Mäntel (Raventree)|verfluchten Mäntel]] greifen die Gruppe an und werden besiegt.
+- **Zimmer neben dem Badezimmer:** enthält allem Anschein nach Spuren von [[Elscieth]], darunter einen Gegenstand mit einer Widmung, offenbar von ihrem Ehemann.
+
+Die Gruppe beschließt, keinesfalls im Anwesen zu übernachten, und schlägt auf dem Rückweg den zugewucherten Pfad nach Ferncombe teilweise frei.
+
 ## Bewohner / Anwesende
 
-Seit der Katastrophennacht unbewohnt bis auf mindestens zwei [[Bücherschwarm (Raventree)|Bücherschwärme]] in der Bibliothek. Vor der Katastrophe: Familie Danos und Bedienstete, darunter [[Usk Umberdael|Usk]].
+Seit der Katastrophennacht unbewohnt bis auf mindestens zwei [[Bücherschwarm (Raventree)|Bücherschwärme]] in der Bibliothek, [[Verfluchte Mäntel (Raventree)|verfluchte Mäntel]] und einen Geist im Obergeschoss. Vor der Katastrophe: Familie Danos und Bedienstete, darunter [[Usk Umberdael|Usk]].
 
 ## Was die Gruppe weiß
 
@@ -63,3 +79,4 @@ Seit der Katastrophennacht unbewohnt bis auf mindestens zwei [[Bücherschwarm (R
 - [[Testament finden]]
 - [[Teleportationskreis in Raventree erforschen]]
 - [[Haus Corvinarus (Familie Danos)]]
+- [[Session 4 - 05.11.2026]]
